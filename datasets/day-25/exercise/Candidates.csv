@@ -1,0 +1,21 @@
+CandidateID,CandidateName,Age,EducationLevel,YearsExperience,Skills
+C001,Candidate 1,27,MBA,5,"Financial Modeling, Excel"
+C002,Candidate 2,32,Bachelor's,7,"SQL, Risk Analysis"
+C003,Candidate 3,25,Master's,3,"Python, Data Analysis"
+C004,Candidate 4,29,MBA,6,Investment Banking
+C005,Candidate 5,35,Bachelor's,10,"Accounting, Taxation"
+C006,Candidate 6,40,MBA,12,"Financial Modeling, Excel"
+C007,Candidate 7,30,Bachelor's,8,"SQL, Risk Analysis"
+C008,Candidate 8,28,Master's,4,"Python, Data Analysis"
+C009,Candidate 9,26,MBA,2,Investment Banking
+C010,Candidate 10,31,Bachelor's,9,"Accounting, Taxation"
+C011,Candidate 11,34,MBA,11,"Financial Modeling, Excel"
+C012,Candidate 12,33,Bachelor's,6,"SQL, Risk Analysis"
+C013,Candidate 13,29,Master's,7,"Python, Data Analysis"
+C014,Candidate 14,24,MBA,5,Investment Banking
+C015,Candidate 15,36,Bachelor's,13,"Accounting, Taxation"
+C016,Candidate 16,37,MBA,14,"Financial Modeling, Excel"
+C017,Candidate 17,39,Bachelor's,15,"SQL, Risk Analysis"
+C018,Candidate 18,38,Master's,1,"Python, Data Analysis"
+C019,Candidate 19,22,MBA,0,Investment Banking
+C020,Candidate 20,23,Bachelor's,2,"Accounting, Taxation"

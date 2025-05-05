@@ -7,13 +7,13 @@ from dotenv import load_dotenv
 load_dotenv()
 
 ROOT_PATH_OF_DATASET    = os.getenv("ROOT_PATH_OF_DATASET")
-file_name               = "week_1_dataset"
+file_name               = "monthly_sales_data"
 
 
 
 # -- 2. Create synthetic dataset 
-data = {
-    "Date": ["01/01/2023", "01/02/2023", "01/03/2023", "01/04/2023", "01/05/2023", "01/06/2023", "01/07/2023"],
+dataset = {
+    "Date": ["01/01/2024", "01/02/2024", "01/03/2024", "01/04/2024", "01/05/2024", "01/06/2024", "01/07/2024"],
     "Region": ["North", "South", "East", "West", "North", "East", "West"],
     "Product": ["Electronics", "Clothing", "Furniture", "Electronics", "Clothing", "Furniture", "Electronics"],
     "Sales Amount (£)": [1200, 900, 750, 1500, 1000, 800, 1600],
@@ -24,8 +24,10 @@ data = {
 
 
 # -- 3. Convert data into a dataframe
-week_1_dataset = pd.DataFrame(data)
+monthly_sales_data = pd.DataFrame(dataset)
 
 
 # -- 4. Save to Excel
-week_1_dataset.to_csv(f"{ROOT_PATH_OF_DATASET}/{file_name}.csv", index=False, encoding="utf-8-sig")
+monthly_sales_data.to_csv(f"{ROOT_PATH_OF_DATASET}/{file_name}.csv", 
+                          index=False, 
+                          encoding="utf-8-sig")
