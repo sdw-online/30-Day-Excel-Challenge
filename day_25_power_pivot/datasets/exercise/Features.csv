@@ -1,0 +1,16 @@
+FeatureID,FeatureName,ReleaseDate,OwningTeam
+F001,Smart Search,08/01/2025,Data
+F002,Dark Mode,03/03/2025,Frontend
+F003,Offline Mode,10/02/2025,Mobile
+F004,Auto Tagging,05/01/2025,Data
+F005,Instant Alerts,07/02/2025,Data
+F006,Drag-and-Drop Dashboard,06/04/2025,Frontend
+F007,Voice Input,18/02/2025,Mobile
+F008,Push Notifications,16/04/2025,Mobile
+F009,Multi-language Support,28/04/2025,Mobile
+F010,Smart Recommendations,11/05/2025,Mobile
+F011,Predictive Analytics,24/03/2025,Data
+F012,Custom Themes,07/01/2025,Frontend
+F013,Real-Time Collaboration,03/03/2025,Frontend
+F014,Gesture Navigation,20/02/2025,Mobile
+F015,Anomaly Detection,03/02/2025,Data

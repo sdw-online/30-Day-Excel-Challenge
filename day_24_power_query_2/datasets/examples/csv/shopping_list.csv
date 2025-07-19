@@ -1,0 +1,21 @@
+Item,Category,Quantity,Price ($)
+Milk,Dairy,2,2.5
+Bread,Bakery,1,1.2
+Eggs,Dairy,12,3.0
+Butter,Dairy,1,4.5
+Cheese,Dairy,1,5.0
+Chicken,Meat,2,8.5
+Rice,Grains,5,2.0
+Pasta,Grains,3,1.5
+Tomatoes,Vegetables,4,3.0
+Onions,Vegetables,3,2.0
+Apples,Fruits,6,2.5
+Bananas,Fruits,6,2.0
+Oranges,Fruits,5,3.0
+Carrots,Vegetables,4,2.0
+Potatoes,Vegetables,5,3.5
+Yogurt,Dairy,2,4.0
+Cereal,Grains,1,3.5
+Coffee,Beverages,1,5.0
+Tea,Beverages,1,4.5
+Sugar,Pantry,2,2.0

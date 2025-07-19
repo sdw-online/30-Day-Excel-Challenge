@@ -1,0 +1,5 @@
+OrderID,CustomerID,OrderAmount,OrderDate,Restaurant
+O1001,C001,25,01/03/2025,Nando's
+O1002,C002,19.5,02/03/2025,Pizza Union
+O1003,C001,15.75,04/03/2025,Itsu
+O1004,C003,34.9,06/03/2025,Honest Burgers

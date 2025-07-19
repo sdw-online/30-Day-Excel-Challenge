@@ -1,0 +1,201 @@
+FeedbackID,FeatureID,UserID,Rating,Comment
+FB0001,F003,U017,5,"Very helpful, exactly what I needed. Great job!"
+FB0002,F011,U025,5,This feature works flawlessly and really improved my workflow.
+FB0003,F010,U031,2,I found it confusing to use and not very helpful.
+FB0004,F002,U041,5,This feature works flawlessly and really improved my workflow.
+FB0005,F003,U002,4,"Great addition overall, but could use some minor improvements."
+FB0006,F002,U015,3,"Might be useful for others, just not for me."
+FB0007,F003,U020,4,"Works well, just a few small bugs here and there."
+FB0008,F015,U003,2,"Crashes occasionally, which is frustrating."
+FB0009,F003,U019,4,"Very useful, though theres a small learning curve."
+FB0010,F011,U002,4,"Great addition overall, but could use some minor improvements."
+FB0011,F011,U046,4,"Works well, just a few small bugs here and there."
+FB0012,F011,U021,2,Needs way more testing and refinement.
+FB0013,F014,U017,1,Doesnt work. Waste of time.
+FB0014,F015,U005,5,Really impressed with the polish and functionality.
+FB0015,F010,U009,3,"Its okay  I can see the value, but I rarely use it."
+FB0016,F011,U017,5,"Very helpful, exactly what I needed. Great job!"
+FB0017,F010,U027,2,Needs way more testing and refinement.
+FB0018,F010,U028,3,"Average feature, sometimes a bit slow to load."
+FB0019,F013,U048,4,"Works well, just a few small bugs here and there."
+FB0020,F015,U045,3,"Might be useful for others, just not for me."
+FB0021,F008,U002,4,"Very useful, though theres a small learning curve."
+FB0022,F001,U009,4,Pretty solid and performs as expected.
+FB0023,F015,U048,4,"Great addition overall, but could use some minor improvements."
+FB0024,F009,U035,2,Needs way more testing and refinement.
+FB0025,F008,U012,5,Really impressed with the polish and functionality.
+FB0026,F012,U024,4,Glad to have it. Could be even better with UI tweaks.
+FB0027,F011,U031,4,"Works well, just a few small bugs here and there."
+FB0028,F002,U004,3,"Might be useful for others, just not for me."
+FB0029,F008,U016,3,"Might be useful for others, just not for me."
+FB0030,F011,U049,5,Super intuitive and fast. I use it daily now!
+FB0031,F001,U028,5,This feature works flawlessly and really improved my workflow.
+FB0032,F013,U002,5,Super intuitive and fast. I use it daily now!
+FB0033,F006,U033,4,"Great addition overall, but could use some minor improvements."
+FB0034,F005,U015,3,"Im on the fence. It works, but not impressively."
+FB0035,F011,U035,1,Very buggy and made my experience worse.
+FB0036,F002,U008,5,Really impressed with the polish and functionality.
+FB0037,F009,U033,2,Didnt meet my expectations at all.
+FB0038,F003,U023,4,Glad to have it. Could be even better with UI tweaks.
+FB0039,F007,U045,2,Didnt meet my expectations at all.
+FB0040,F006,U011,5,This feature works flawlessly and really improved my workflow.
+FB0041,F012,U006,5,Really impressed with the polish and functionality.
+FB0042,F011,U024,5,Super intuitive and fast. I use it daily now!
+FB0043,F003,U009,1,Very buggy and made my experience worse.
+FB0044,F001,U005,4,"Great addition overall, but could use some minor improvements."
+FB0045,F011,U037,2,Didnt meet my expectations at all.
+FB0046,F009,U019,5,Really impressed with the polish and functionality.
+FB0047,F002,U045,3,"Its okay  I can see the value, but I rarely use it."
+FB0048,F006,U011,2,"Crashes occasionally, which is frustrating."
+FB0049,F012,U045,1,Not useful at all. I disabled it quickly.
+FB0050,F014,U001,2,Needs way more testing and refinement.
+FB0051,F001,U012,2,"Crashes occasionally, which is frustrating."
+FB0052,F001,U041,4,"Works well, just a few small bugs here and there."
+FB0053,F001,U048,4,"Very useful, though theres a small learning curve."
+FB0054,F008,U009,4,Pretty solid and performs as expected.
+FB0055,F001,U044,3,"Its okay  I can see the value, but I rarely use it."
+FB0056,F004,U005,3,"Mediocre experience. Not bad, not great."
+FB0057,F001,U033,2,I found it confusing to use and not very helpful.
+FB0058,F001,U036,5,Seamless experience  feels like magic.
+FB0059,F004,U020,5,Really impressed with the polish and functionality.
+FB0060,F011,U039,5,Seamless experience  feels like magic.
+FB0061,F004,U002,5,This feature works flawlessly and really improved my workflow.
+FB0062,F008,U036,4,Glad to have it. Could be even better with UI tweaks.
+FB0063,F010,U005,5,This feature works flawlessly and really improved my workflow.
+FB0064,F011,U046,3,"Its okay  I can see the value, but I rarely use it."
+FB0065,F001,U036,5,Seamless experience  feels like magic.
+FB0066,F007,U034,5,Seamless experience  feels like magic.
+FB0067,F004,U013,4,Pretty solid and performs as expected.
+FB0068,F014,U002,3,"Might be useful for others, just not for me."
+FB0069,F010,U020,1,Not useful at all. I disabled it quickly.
+FB0070,F013,U022,4,"Very useful, though theres a small learning curve."
+FB0071,F004,U002,1,Not useful at all. I disabled it quickly.
+FB0072,F007,U021,1,Terrible implementation. Why release this?
+FB0073,F001,U005,5,Really impressed with the polish and functionality.
+FB0074,F014,U012,4,"Very useful, though theres a small learning curve."
+FB0075,F013,U040,1,Disappointed  this feature is broken.
+FB0076,F010,U024,5,"Very helpful, exactly what I needed. Great job!"
+FB0077,F005,U024,3,"Might be useful for others, just not for me."
+FB0078,F004,U007,5,Really impressed with the polish and functionality.
+FB0079,F011,U024,5,This feature works flawlessly and really improved my workflow.
+FB0080,F007,U036,4,Pretty solid and performs as expected.
+FB0081,F015,U025,3,"Might be useful for others, just not for me."
+FB0082,F012,U041,3,"Might be useful for others, just not for me."
+FB0083,F010,U018,1,Not useful at all. I disabled it quickly.
+FB0084,F013,U014,4,"Works well, just a few small bugs here and there."
+FB0085,F015,U047,3,"Average feature, sometimes a bit slow to load."
+FB0086,F015,U047,1,Very buggy and made my experience worse.
+FB0087,F015,U024,3,"Might be useful for others, just not for me."
+FB0088,F003,U008,4,Pretty solid and performs as expected.
+FB0089,F012,U045,1,Very buggy and made my experience worse.
+FB0090,F009,U022,4,"Very useful, though theres a small learning curve."
+FB0091,F005,U017,3,"Might be useful for others, just not for me."
+FB0092,F011,U049,4,Pretty solid and performs as expected.
+FB0093,F004,U005,5,Super intuitive and fast. I use it daily now!
+FB0094,F002,U037,2,Feels half-baked and clunky to navigate.
+FB0095,F010,U002,5,Super intuitive and fast. I use it daily now!
+FB0096,F006,U027,5,"Very helpful, exactly what I needed. Great job!"
+FB0097,F013,U032,5,This feature works flawlessly and really improved my workflow.
+FB0098,F002,U016,4,"Works well, just a few small bugs here and there."
+FB0099,F015,U003,4,"Very useful, though theres a small learning curve."
+FB0100,F002,U046,5,Seamless experience  feels like magic.
+FB0101,F011,U014,4,"Great addition overall, but could use some minor improvements."
+FB0102,F006,U045,1,Not useful at all. I disabled it quickly.
+FB0103,F004,U028,2,Feels half-baked and clunky to navigate.
+FB0104,F006,U040,4,"Great addition overall, but could use some minor improvements."
+FB0105,F002,U016,2,I found it confusing to use and not very helpful.
+FB0106,F010,U012,5,Super intuitive and fast. I use it daily now!
+FB0107,F006,U028,4,Pretty solid and performs as expected.
+FB0108,F003,U035,1,Not useful at all. I disabled it quickly.
+FB0109,F002,U014,2,"Crashes occasionally, which is frustrating."
+FB0110,F005,U042,5,"Very helpful, exactly what I needed. Great job!"
+FB0111,F007,U021,2,"Crashes occasionally, which is frustrating."
+FB0112,F015,U022,2,I found it confusing to use and not very helpful.
+FB0113,F009,U039,2,"Crashes occasionally, which is frustrating."
+FB0114,F004,U042,4,"Very useful, though theres a small learning curve."
+FB0115,F010,U034,3,"Im on the fence. It works, but not impressively."
+FB0116,F009,U035,2,Didnt meet my expectations at all.
+FB0117,F002,U031,4,Pretty solid and performs as expected.
+FB0118,F003,U007,5,"Very helpful, exactly what I needed. Great job!"
+FB0119,F015,U026,1,Terrible implementation. Why release this?
+FB0120,F015,U040,3,"Average feature, sometimes a bit slow to load."
+FB0121,F013,U011,4,Pretty solid and performs as expected.
+FB0122,F015,U050,2,"Crashes occasionally, which is frustrating."
+FB0123,F004,U030,3,"Its okay  I can see the value, but I rarely use it."
+FB0124,F004,U023,3,"Mediocre experience. Not bad, not great."
+FB0125,F004,U043,5,"Very helpful, exactly what I needed. Great job!"
+FB0126,F008,U030,3,"Its okay  I can see the value, but I rarely use it."
+FB0127,F008,U015,4,Glad to have it. Could be even better with UI tweaks.
+FB0128,F012,U021,3,"Might be useful for others, just not for me."
+FB0129,F001,U006,4,Glad to have it. Could be even better with UI tweaks.
+FB0130,F006,U011,1,Disappointed  this feature is broken.
+FB0131,F004,U035,4,"Great addition overall, but could use some minor improvements."
+FB0132,F005,U005,5,Really impressed with the polish and functionality.
+FB0133,F002,U046,4,Glad to have it. Could be even better with UI tweaks.
+FB0134,F006,U033,5,Seamless experience  feels like magic.
+FB0135,F001,U024,5,This feature works flawlessly and really improved my workflow.
+FB0136,F002,U031,3,"Might be useful for others, just not for me."
+FB0137,F006,U041,2,"Crashes occasionally, which is frustrating."
+FB0138,F003,U045,5,Super intuitive and fast. I use it daily now!
+FB0139,F009,U006,5,Seamless experience  feels like magic.
+FB0140,F008,U019,5,Seamless experience  feels like magic.
+FB0141,F013,U005,3,"Im on the fence. It works, but not impressively."
+FB0142,F011,U026,5,This feature works flawlessly and really improved my workflow.
+FB0143,F001,U039,2,I found it confusing to use and not very helpful.
+FB0144,F004,U002,5,Really impressed with the polish and functionality.
+FB0145,F011,U031,3,"Its okay  I can see the value, but I rarely use it."
+FB0146,F001,U035,2,Feels half-baked and clunky to navigate.
+FB0147,F013,U050,4,Glad to have it. Could be even better with UI tweaks.
+FB0148,F005,U003,2,Needs way more testing and refinement.
+FB0149,F008,U027,4,"Very useful, though theres a small learning curve."
+FB0150,F010,U018,4,"Very useful, though theres a small learning curve."
+FB0151,F007,U045,5,Really impressed with the polish and functionality.
+FB0152,F008,U005,5,Seamless experience  feels like magic.
+FB0153,F011,U048,5,"Very helpful, exactly what I needed. Great job!"
+FB0154,F005,U004,2,I found it confusing to use and not very helpful.
+FB0155,F006,U013,5,Super intuitive and fast. I use it daily now!
+FB0156,F006,U037,5,Seamless experience  feels like magic.
+FB0157,F015,U021,4,"Great addition overall, but could use some minor improvements."
+FB0158,F012,U017,4,Pretty solid and performs as expected.
+FB0159,F005,U020,2,Feels half-baked and clunky to navigate.
+FB0160,F011,U034,5,"Very helpful, exactly what I needed. Great job!"
+FB0161,F003,U011,4,Glad to have it. Could be even better with UI tweaks.
+FB0162,F007,U021,3,"Might be useful for others, just not for me."
+FB0163,F012,U035,4,"Works well, just a few small bugs here and there."
+FB0164,F002,U044,5,"Very helpful, exactly what I needed. Great job!"
+FB0165,F006,U039,2,"Crashes occasionally, which is frustrating."
+FB0166,F004,U040,1,Disappointed  this feature is broken.
+FB0167,F005,U008,1,Disappointed  this feature is broken.
+FB0168,F001,U023,5,Seamless experience  feels like magic.
+FB0169,F003,U026,5,"Very helpful, exactly what I needed. Great job!"
+FB0170,F003,U033,5,"Very helpful, exactly what I needed. Great job!"
+FB0171,F003,U009,2,Didnt meet my expectations at all.
+FB0172,F013,U026,5,This feature works flawlessly and really improved my workflow.
+FB0173,F014,U025,3,"Its okay  I can see the value, but I rarely use it."
+FB0174,F004,U012,3,"Its okay  I can see the value, but I rarely use it."
+FB0175,F002,U004,1,Not useful at all. I disabled it quickly.
+FB0176,F003,U005,3,"Mediocre experience. Not bad, not great."
+FB0177,F006,U045,3,"Might be useful for others, just not for me."
+FB0178,F003,U049,3,"Average feature, sometimes a bit slow to load."
+FB0179,F008,U013,3,"Its okay  I can see the value, but I rarely use it."
+FB0180,F006,U011,1,Very buggy and made my experience worse.
+FB0181,F005,U007,1,Disappointed  this feature is broken.
+FB0182,F013,U013,4,"Very useful, though theres a small learning curve."
+FB0183,F003,U050,3,"Mediocre experience. Not bad, not great."
+FB0184,F011,U013,2,Feels half-baked and clunky to navigate.
+FB0185,F015,U011,2,Feels half-baked and clunky to navigate.
+FB0186,F014,U017,4,Glad to have it. Could be even better with UI tweaks.
+FB0187,F008,U024,5,"Very helpful, exactly what I needed. Great job!"
+FB0188,F010,U024,2,I found it confusing to use and not very helpful.
+FB0189,F004,U025,3,"Im on the fence. It works, but not impressively."
+FB0190,F012,U021,4,Pretty solid and performs as expected.
+FB0191,F012,U044,3,"Might be useful for others, just not for me."
+FB0192,F013,U031,4,Pretty solid and performs as expected.
+FB0193,F003,U042,2,I found it confusing to use and not very helpful.
+FB0194,F008,U046,5,Seamless experience  feels like magic.
+FB0195,F012,U048,3,"Average feature, sometimes a bit slow to load."
+FB0196,F002,U002,2,"Crashes occasionally, which is frustrating."
+FB0197,F007,U027,4,"Works well, just a few small bugs here and there."
+FB0198,F015,U036,2,Didnt meet my expectations at all.
+FB0199,F015,U024,4,"Very useful, though theres a small learning curve."
+FB0200,F014,U013,3,"Im on the fence. It works, but not impressively."
