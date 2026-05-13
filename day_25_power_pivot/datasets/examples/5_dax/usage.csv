@@ -1,0 +1,21 @@
+LogID,SubscriberID,FeatureUsed,DateUsed
+L001,SUB002,Priority Support,02/03/2024
+L002,SUB002,Dashboard Export,03/03/2024
+L003,SUB002,Dashboard Export,08/03/2024
+L004,SUB002,Advanced Reports,20/03/2024
+L005,SUB004,Dashboard Export,23/03/2024
+L006,SUB004,Advanced Reports,23/03/2024
+L007,SUB004,Advanced Reports,14/03/2024
+L008,SUB004,Dashboard Export,15/03/2024
+L009,SUB005,Priority Support,26/03/2024
+L010,SUB005,Dashboard Export,25/03/2024
+L011,SUB005,Dashboard Export,23/03/2024
+L012,SUB005,Priority Support,11/03/2024
+L013,SUB006,Dashboard Export,07/03/2024
+L014,SUB006,Priority Support,04/03/2024
+L015,SUB008,Dashboard Export,12/03/2024
+L016,SUB008,Priority Support,20/03/2024
+L017,SUB008,Priority Support,26/03/2024
+L018,SUB010,Advanced Reports,04/03/2024
+L019,SUB010,Priority Support,03/03/2024
+L020,SUB010,Advanced Reports,10/03/2024

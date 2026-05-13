@@ -1,0 +1,28 @@
+My Supermarket Sales:
+------------------------
+
+
+Month: Jan  
+Sales: 5000  
+Expenses: 3000  
+Profit: 2000  
+
+Month: Feb  
+Sales: 6000  
+Expenses: 3200  
+Profit: 2800  
+
+Month: Mar  
+Sales: 5500  
+Expenses: 3100  
+Profit: 2400  
+
+Month: Apr  
+Sales: 6500  
+Expenses: 3400  
+Profit: 3100  
+
+Month: May  
+Sales: 7000  
+Expenses: 4000  
+Profit: 3000  

@@ -1,0 +1,62 @@
+FeatureID,FeatureName,Team,RolloutMonth,ProductOwner
+F1000,Interactive Video Lessons,Team_0,,
+F1001,,,2024-03-13,Regina Henry
+F1002,Daily Streak Counter,Team_2,2024-07-16,John Erickson
+F1003,In-app Notes,Team_3,2024-03-17,
+F1004,Gamified Quizzes,Team_4,2024-01-07,Jennifer Peterson
+F1005,Flashcards,Team_5,2024-01-22,
+F1006,Dark Mode,Team_6,,Jose Brennan
+F1007,Light Mode,Team_7,2024-03-30,Charles Ryan
+F1008,Voice Narration,Team_8,2024-03-23,Dr. William Murphy
+F1009,Content Recommendation Engine,Team_9,2024-06-08,Andrew Hubbard
+F1010,Interactive Slides,,2024-12-05,Steven Todd
+F1011,Microlearning Nuggets,,2024-08-05,Desiree Cooper
+F1012,,Team_12,2024-12-09,
+F1013,Discussion Forum,Team_13,2024-05-10,Michelle Fisher
+F1014,Mentor Chatbot,Team_14,2024-11-30,Joe Adams
+F1015,Calendar Integration,Team_15,2024-03-29,Margaret White
+F1016,,,,Austin Sandoval
+F1017,Interactive Timelines,,2024-01-12,Caleb Ramirez
+F1018,,Team_18,2024-03-28,
+F1019,Guided Walkthroughs,Team_19,2024-06-30,Alec Butler
+F1020,Emotion-Based Feedback,,2024-09-23,Kelly Robinson
+F1021,Real-Time Peer Review,Team_1,,
+F1022,Drag and Drop Exercises,Team_2,,Jacob Kelly
+F1023,Sticky Navigation,Team_3,2024-10-12,Kristen Cross
+F1024,Content Difficulty Toggle,,2024-03-17,Michael Cole
+F1025,Live Classes,Team_5,,Colin Herring
+F1026,,Team_6,2024-02-16,Diane Nelson
+F1027,Searchable Video Captions,Team_7,2024-02-15,Jean Parker
+F1028,,Team_8,2024-03-13,Francisco Holt
+F1029,Progressive Unlocking,Team_9,2024-07-28,Sandra Harmon
+F1030,Smart Reminders,Team_10,2024-08-29,
+F1031,Personal Dashboard,Team_11,2024-01-30,Aaron Brown
+F1032,Custom Avatars,Team_12,2024-01-16,
+F1033,Video Speed Control,Team_13,2024-07-02,
+F1034,Goal Setting Wizard,Team_14,2024-12-27,Scott Leon
+F1035,Time Spent Summary,Team_15,2024-01-13,
+F1036,Weekly Learning Goals,Team_16,2024-07-01,William Garcia
+F1037,,Team_17,2024-09-30,Stephanie Delgado
+F1038,Multilingual Support,Team_18,2024-04-13,Brandon Holloway
+F1039,Mobile-Friendly Layout,Team_19,2024-01-27,Kevin Hogan
+F1040,,,2024-10-27,David Reynolds
+F1041,Syllabus View,Team_1,,Ryan White
+F1042,Search Functionality,,,Justin Blankenship
+F1043,,Team_3,,Erica Thomas
+F1044,Interactive Infographics,Team_4,,Troy Morales
+F1045,,Team_5,2024-02-17,Robert Cohen
+F1046,Content Likes,,2024-01-03,Michelle Moody
+F1047,Onboarding Quiz,Team_7,2024-10-01,Joyce Thompson
+F1048,Skill Ratings,Team_8,2024-02-23,Adam Taylor
+F1049,Adaptive Questions,Team_9,2024-12-17,Catherine Chapman
+F1050,End-of-Module Feedback,Team_10,2024-04-08,Troy Johnson
+F1022,Drag and Drop Exercises,Team_2,2024-03-30,Jacob Kelly
+F1031,Personal Dashboard,Team_11,2024-01-30,Aaron Brown
+F1026,Offline Mode,Team_6,2024-02-16,Diane Nelson
+F1018,Achievement Badges,Team_18,2024-03-28,Glenda Schmitt DDS
+F1016,Weekly Recap Email,Team_16,2024-09-03,Austin Sandoval
+F1004,Gamified Quizzes,Team_4,2024-01-07,Jennifer Peterson
+F1029,Progressive Unlocking,Team_9,2024-07-28,Sandra Harmon
+F1020,Emotion-Based Feedback,Team_0,2024-09-23,Kelly Robinson
+F1043,Emoji Reactions,Team_3,2024-08-31,Erica Thomas
+F1046,Content Likes,Team_6,2024-01-03,Michelle Moody
