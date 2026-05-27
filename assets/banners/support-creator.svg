@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 80" fill="none">
+  <defs>
+    <linearGradient id="sbg" x1="400" y1="0" x2="800" y2="80" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0a1a0e"/><stop offset="100%" stop-color="#0d3320"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="800" height="80" rx="12" fill="url(#sbg)"/>
+  <rect x="1" y="1" width="798" height="78" rx="12" fill="none" stroke="#217346" stroke-width="1.5" opacity="0.35" filter="url(#glow)"/>
+  <circle cx="740" cy="16" r="2" fill="#217346" opacity="0.2"/><circle cx="760" cy="16" r="2" fill="#217346" opacity="0.25"/><circle cx="780" cy="16" r="2" fill="#217346" opacity="0.3"/>
+  <rect x="30" y="22" width="44" height="36" rx="8" fill="#dc2626"/>
+  <polygon points="47,32 47,50 60,41" fill="#ffffff"/>
+  <text x="90" y="36" font-family="Segoe UI, system-ui, sans-serif" font-size="16" font-weight="700" fill="#ffffff">This entire challenge is free. If it helped you, subscribe.</text>
+  <text x="90" y="58" font-family="Segoe UI, system-ui, sans-serif" font-size="12" fill="#a0c4b0">One click keeps this going - more challenges, more projects, more free content for everyone.</text>
+</svg>
