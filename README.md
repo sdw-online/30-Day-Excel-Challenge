@@ -171,8 +171,15 @@ git clone https://github.com/sdw-online/30-Day-Excel-Challenge.git
 Real comments from people doing the challenge.
 
 <p align="center">
+  <img src="assets/social-proof/excel-susannah-enjoyable.jpg" width="420" alt="The best. So many tutorials are boring - this is actually enjoyable to watch and one feels empowered.">
+</p>
+
+<p align="center">
+  <img src="assets/social-proof/excel-philip-best-channel.jpg" width="420" alt="I think you and Alex are the best channel to learn from">
+  &nbsp;&nbsp;
   <img src="assets/social-proof/lizadeka-day30-complete.jpg" width="420" alt="Day 30 completed! Practical and structured challenge.">
 </p>
+
 <p align="center">
   <img src="assets/social-proof/verohmueni-day1.jpg" width="420" alt="Just finished 30 day Excel challenge, lets go SQL">
 </p>
