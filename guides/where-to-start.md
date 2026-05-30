@@ -154,7 +154,7 @@ You can't get lost. Every page tells you where to go next.
 
 ---
 
-One more thing - this entire challenge is free. Every video, every dataset, every solution. If it helps you get where you want to go, [subscribe on YouTube](https://www.youtube.com/@sdw-online?sub_confirmation=1) so Stephen can keep making these. It takes one click and it means more free challenges for everyone.
+Wherever you start, you're already lapping everyone who bookmarked a course and never opened it. [Subscribe on YouTube](https://www.youtube.com/@sdw-online?sub_confirmation=1) - new challenges drop regularly and you'll want to know when the next one lands.
 
 <p align="center">
   <a href="https://www.youtube.com/@sdw-online?sub_confirmation=1"><img src="../assets/banners/support-creator.svg" width="800" alt="Subscribe on YouTube"></a>

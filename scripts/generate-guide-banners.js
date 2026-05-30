@@ -53,8 +53,8 @@ const subscribe = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 80" 
   <circle cx="740" cy="16" r="2" fill="${A}" opacity="0.2"/><circle cx="760" cy="16" r="2" fill="${A}" opacity="0.25"/><circle cx="780" cy="16" r="2" fill="${A}" opacity="0.3"/>
   <rect x="30" y="22" width="44" height="36" rx="8" fill="#dc2626"/>
   <polygon points="47,32 47,50 60,41" fill="#ffffff"/>
-  <text x="90" y="36" font-family="Segoe UI, system-ui, sans-serif" font-size="16" font-weight="700" fill="#ffffff">This entire challenge is free. If it helped you, subscribe.</text>
-  <text x="90" y="58" font-family="Segoe UI, system-ui, sans-serif" font-size="12" fill="${MUTED}">One click keeps this going - more challenges, more projects, more free content for everyone.</text>
+  <text x="90" y="36" font-family="Segoe UI, system-ui, sans-serif" font-size="16" font-weight="700" fill="#ffffff">You're building momentum. Subscribe to keep it going.</text>
+  <text x="90" y="58" font-family="Segoe UI, system-ui, sans-serif" font-size="12" fill="${MUTED}">New challenges, projects, and deep dives drop regularly - straight to your feed.</text>
 </svg>`;
 
 let count = 0;

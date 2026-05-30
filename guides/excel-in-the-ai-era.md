@@ -105,7 +105,7 @@ The people who get the most out of AI tools are the ones who understand what the
 
 This challenge teaches you that. And it's completely free.
 
-Stephen put hundreds of hours into building these lessons, datasets, and exercises because he believes everyone should have access to proper Excel training - not just people who can afford expensive courses. If this challenge changes how you work with data, the best way to pay it forward is to [subscribe on YouTube](https://www.youtube.com/@sdw-online?sub_confirmation=1). It costs nothing and it helps more people find this.
+You now understand something most people skip - why the skill matters, not just the syntax. If that shift in thinking clicked for you, [subscribe on YouTube](https://www.youtube.com/@sdw-online?sub_confirmation=1) - new challenges drop regularly and the next one builds on exactly this kind of foundation.
 
 <p align="center">
   <a href="https://www.youtube.com/@sdw-online?sub_confirmation=1"><img src="../assets/banners/support-creator.svg" width="800" alt="Subscribe on YouTube"></a>

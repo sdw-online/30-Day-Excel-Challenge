@@ -171,7 +171,21 @@ git clone https://github.com/sdw-online/30-Day-Excel-Challenge.git
 Real comments from people doing the challenge.
 
 <p align="center">
+  <img src="assets/social-proof/excel-audrey-best-instructor.jpg" width="420" alt="I'm trying to pivot into a DA role and I must say you're the best Excel instructor thus far. Thanks for contributing to the community!">
+  &nbsp;&nbsp;
+  <img src="assets/social-proof/excel-ntony-really-helpful.jpg" width="420" alt="Thank you for taking the time to really explain this. It's really great and helpful.">
+</p>
+
+<p align="center">
   <img src="assets/social-proof/excel-susannah-enjoyable.jpg" width="420" alt="The best. So many tutorials are boring - this is actually enjoyable to watch and one feels empowered.">
+  &nbsp;&nbsp;
+  <img src="assets/social-proof/excel-justfutbal-assignment-done.jpg" width="420" alt="Thank you soo much Sir Stephen. I have my practice assignment done, I will love to send them for assessment.">
+</p>
+
+<p align="center">
+  <img src="assets/social-proof/excel-rhodss-analysis-useful.jpg" width="420" alt="The analysis you explain alongside the actual excel stuff is really useful, thank you!">
+  &nbsp;&nbsp;
+  <img src="assets/social-proof/excel-david-grateful-want-sql.jpg" width="420" alt="This was very helpful. I'm grateful. Please do day 1 to day 30 in SQL.">
 </p>
 
 <p align="center">
@@ -190,9 +204,9 @@ Real comments from people doing the challenge.
   <a href="https://www.youtube.com/@sdw-online?sub_confirmation=1"><img src="assets/banners/support-creator.svg" width="800" alt="Subscribe on YouTube"></a>
 </p>
 
-This whole challenge - 30 lessons, real datasets, practice workbooks, this entire repo - is free. No paywall, no email gate, no "buy the premium version." It took hundreds of hours to build.
+You just mass-gained a skill most people spend months fumbling through. Stephen drops new challenges, projects, and deep dives regularly - [subscribe on YouTube](https://www.youtube.com/@sdw-online?sub_confirmation=1) so you don't miss the next one.
 
-If it helped you learn Excel, the best way to pay it back is to [subscribe on YouTube](https://www.youtube.com/@sdw-online?sub_confirmation=1). That's it. One click. It tells the algorithm to show this to more people who need it, and it means Stephen can keep making free challenges and projects like this one.
+That's how people go from "learning Excel" to being the spreadsheet person everyone asks for help.
 
 ---
 

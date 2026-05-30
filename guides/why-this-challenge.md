@@ -88,9 +88,7 @@ More importantly, you'll think differently. Excel teaches you to structure messy
 
 Nothing. The videos are free. The repo is free. The datasets are free. The solutions are free.
 
-Stephen built this because he believes the best way to learn Excel is daily practice with real data - and that shouldn't be locked behind a paywall. Hundreds of hours went into creating these lessons, datasets, and exercises.
-
-If this challenge helps you - even a little - the best way to say thanks is to [subscribe on YouTube](https://www.youtube.com/@sdw-online?sub_confirmation=1). It takes one click, costs nothing, and it means Stephen can keep making free content like this. More subscribers means the algorithm shows this to more people who need it. That's how we keep the cycle going - free knowledge that actually helps people get into data careers.
+If you're working through this and it's clicking, you're already ahead of most people. [Subscribe on YouTube](https://www.youtube.com/@sdw-online?sub_confirmation=1) to stay in the loop - Stephen drops new challenges and data projects regularly, and you'll want to know when the next one lands.
 
 <p align="center">
   <a href="https://www.youtube.com/@sdw-online?sub_confirmation=1"><img src="../assets/banners/support-creator.svg" width="800" alt="Subscribe on YouTube"></a>
