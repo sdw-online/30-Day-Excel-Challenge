@@ -355,8 +355,12 @@ Real comments from people doing the challenge.
 ## Join the community
 
 <p align="center">
-  <a href="https://data100x.carrd.co/"><strong>Join the free data community →</strong></a><br/>
-  <sub>Weekly drops, member projects, no spam, 100% free.</sub>
+  <a href="https://30dayexcelchallenge.carrd.co/"><strong>Get the 30 Day Excel Challenge lead magnet →</strong></a><br/>
+  <sub>The structured walkthrough, datasets, and bonus material - straight to your inbox.</sub>
+</p>
+
+<p align="center">
+  <sub>Want broader data content too? <a href="https://data100x.carrd.co/">Join the free data community →</a></sub>
 </p>
 
 ---
