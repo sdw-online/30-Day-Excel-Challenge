@@ -200,6 +200,158 @@ Real comments from people doing the challenge.
 
 ---
 
+<!-- BROWSE-ALL-VIDEOS -->
+## Browse all videos
+
+<sub>Click any thumbnail to jump straight to that day's video on YouTube. Sorted by day number.</sub>
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=jAryJn2vhNQ"><img src="https://img.youtube.com/vi/jAryJn2vhNQ/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 01 - Getting Started with Excel</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=Ttb1WuotHIs"><img src="https://img.youtube.com/vi/Ttb1WuotHIs/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 02 - Formatting Data for Analysis</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=ggQBWnZUclo"><img src="https://img.youtube.com/vi/ggQBWnZUclo/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 03 - Formulas &amp; Functions</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=3FZcAIGCB3g"><img src="https://img.youtube.com/vi/3FZcAIGCB3g/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 04 - Sorting &amp; Filtering</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=xo-kVwDqaWc"><img src="https://img.youtube.com/vi/xo-kVwDqaWc/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 05 - Data Visualisation Basics</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=kWVdkiz6-2M"><img src="https://img.youtube.com/vi/kWVdkiz6-2M/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 06 - Conditional Formatting (Part 1)</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=fQMHEIgvv8U"><img src="https://img.youtube.com/vi/fQMHEIgvv8U/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 07 - Project: Week 1 Data Project</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=5oJ5T9o0GJw"><img src="https://img.youtube.com/vi/5oJ5T9o0GJw/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 08 - Logical Functions</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=ns1dbkGGt-k"><img src="https://img.youtube.com/vi/ns1dbkGGt-k/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 09 - Text Functions</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=X9N7qNgegZ8"><img src="https://img.youtube.com/vi/X9N7qNgegZ8/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 10 - Aggregate Functions</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=8CPdq6LSF5U"><img src="https://img.youtube.com/vi/8CPdq6LSF5U/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 11 - Pivot Tables (Part 1)</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=iyDYuZAMD9A"><img src="https://img.youtube.com/vi/iyDYuZAMD9A/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 12 - Pivot Tables (Part 2)</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=-Kafb-ypHaM"><img src="https://img.youtube.com/vi/-Kafb-ypHaM/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 13 - Data Validation</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=Y_fwPqS0YHs"><img src="https://img.youtube.com/vi/Y_fwPqS0YHs/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 14 - Project: Week 2 Data Project</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=q5IrQWp_Z8E"><img src="https://img.youtube.com/vi/q5IrQWp_Z8E/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 15 - Conditional Formatting (Part 2)</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=G6_TYOiv1wg"><img src="https://img.youtube.com/vi/G6_TYOiv1wg/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 16 - VLOOKUP &amp; HLOOKUP</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=mqtgqlj6QMc"><img src="https://img.youtube.com/vi/mqtgqlj6QMc/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 17 - INDEX &amp; MATCH</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=vJf5CWBtA_4"><img src="https://img.youtube.com/vi/vJf5CWBtA_4/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 18 - XLOOKUP</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=RgAOED78C-E"><img src="https://img.youtube.com/vi/RgAOED78C-E/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 19 - Data Cleaning</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=R1M2p3kV9mo"><img src="https://img.youtube.com/vi/R1M2p3kV9mo/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 20 - Power Query (Part 1)</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=J7YeXpfXTxI"><img src="https://img.youtube.com/vi/J7YeXpfXTxI/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 21 - Project: Week 3 Data Project</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=FuTsKAqN3NY"><img src="https://img.youtube.com/vi/FuTsKAqN3NY/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 22 - Data Visualisation (Advanced)</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=YykiAwglQFQ"><img src="https://img.youtube.com/vi/YykiAwglQFQ/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 23 - Dynamic Array Functions</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=JZs-nMaiaPI"><img src="https://img.youtube.com/vi/JZs-nMaiaPI/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 24 - Power Query (Part 2)</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=oD7HE3W8EuY"><img src="https://img.youtube.com/vi/oD7HE3W8EuY/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 25 - Power Pivot &amp; DAX</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=jvjCL3Ht0RQ"><img src="https://img.youtube.com/vi/jvjCL3Ht0RQ/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 26 - Data Quality &amp; Auditing</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=LVPJCpfrd54"><img src="https://img.youtube.com/vi/LVPJCpfrd54/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 27 - Macros &amp; VBA Automation</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=zQoKK_-0vUk"><img src="https://img.youtube.com/vi/zQoKK_-0vUk/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 28 - Building a Data-Entry Form</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=hNgZAPLCjwo"><img src="https://img.youtube.com/vi/hNgZAPLCjwo/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 29 - Keyboard Shortcuts</b></sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=lz_JA_t_DSg"><img src="https://img.youtube.com/vi/lz_JA_t_DSg/hqdefault.jpg" width="220"/></a><br/>
+  <sub><b>Day 30 - Capstone: Final Data Project</b></sub>
+</td>
+</tr>
+</table>
+
+<!-- BROWSE-ALL-VIDEOS -->
+
+---
+
 ## Join the community
 
 <p align="center">
