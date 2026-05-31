@@ -363,6 +363,10 @@ Real comments from people doing the challenge.
   <sub>Want broader data content too? <a href="https://data100x.carrd.co/">Join the free data community →</a></sub>
 </p>
 
+<p align="center"><sub>
+  Want the deeper material? <a href="https://davidwilliams2.gumroad.com/l/rlrkqua"><b>Excel Made Easy</b></a> on Gumroad.
+</sub></p>
+
 ---
 
 <p align="center">
