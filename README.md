@@ -17,16 +17,28 @@
 
 ---
 
-## How It Works
+## How it works
 
-```
-Fork this repo  -->  Watch the video  -->  Open the workbook  -->  Do the exercises  -->  Check your work
+Five steps. Every day. Thirty days.
+
+```mermaid
+flowchart LR
+    A([Fork the repo]) --> B([Watch the<br/>day's video])
+    B --> C([Open the<br/>workbook])
+    C --> D([Do the<br/>exercises])
+    D --> E([Check your<br/>work])
+
+    style A fill:#312e81,stroke:#a5b4fc,stroke-width:2px,color:#ffffff
+    style B fill:#4338ca,stroke:#a5b4fc,stroke-width:2px,color:#ffffff
+    style C fill:#4f46e5,stroke:#a5b4fc,stroke-width:2px,color:#ffffff
+    style D fill:#6366f1,stroke:#a5b4fc,stroke-width:2px,color:#ffffff
+    style E fill:#f59e0b,stroke:#fbbf24,stroke-width:2px,color:#1f2937
 ```
 
 Each day gives you:
-- A **video lesson** that walks you through the concept with real examples
-- **Excel workbooks** you open and work with - not just screenshots, actual files
-- **Practice exercises** that put you in a real role solving a real problem
+- A **video lesson** walking through the concept with real examples
+- **Excel workbooks** you open and work with - real files, not screenshots
+- **Practice exercises** dropping you into a real role solving a real problem
 - A link to the **next day** so you always know what's coming
 
 ---
@@ -63,21 +75,38 @@ AI makes Excel faster. This challenge makes you someone who knows what to build 
 
 ---
 
-## Where Should I Start?
+## Where should I start?
 
-Not everyone is starting from scratch - and that's fine. This challenge is designed so you can jump in wherever makes sense for you.
+Not everyone's starting from scratch - and that's fine. Pick the door that matches where you are.
 
-<p align="center">
-  <a href="guides/where-to-start.md"><img src="assets/banners/where-to-start.svg" width="800" alt="Where Should I Start?"></a>
-</p>
+```mermaid
+flowchart TD
+    Q{What's your<br/>Excel level?}
 
-**Never used Excel properly?** Start at **Day 1**. You'll learn the interface, enter your first data, and build your first workbook. No prior knowledge needed.
+    Q -->|Never used<br/>Excel properly| D1[Day 1<br/>Interface +<br/>your first workbook]
+    Q -->|Basics rusty,<br/>no functions| D8[Day 8<br/>IF, text, aggregates,<br/>pivot tables]
+    Q -->|Comfortable<br/>but no lookups| D15[Day 15<br/>VLOOKUP, INDEX+MATCH,<br/>XLOOKUP, Power Query]
+    Q -->|Production-ready<br/>want advanced| D22[Day 22<br/>Power Pivot, DAX,<br/>macros, capstone]
 
-**Know the basics but never learnt functions properly?** Jump to **Day 8**. Week 2 covers IF functions, text manipulation, aggregates, and pivot tables - the stuff that makes you actually productive.
+    click D1 "https://github.com/sdw-online/30-Day-Excel-Challenge/tree/main/day_01_getting_started" _blank
+    click D8 "https://github.com/sdw-online/30-Day-Excel-Challenge/tree/main/day_08_logical_functions" _blank
+    click D15 "https://github.com/sdw-online/30-Day-Excel-Challenge/tree/main/day_15_conditional_formatting_2" _blank
+    click D22 "https://github.com/sdw-online/30-Day-Excel-Challenge/tree/main/day_22_data_viz_advanced" _blank
 
-**Comfortable with formulas but never used lookups?** Start at **Day 15**. VLOOKUP, INDEX+MATCH, XLOOKUP, data cleaning, and Power Query. This is where most people in data jobs realise they've been doing things the hard way.
+    classDef start fill:#1e1b4b,stroke:#a5b4fc,stroke-width:2px,color:#ffffff
+    classDef day fill:#4338ca,stroke:#818cf8,stroke-width:2px,color:#ffffff
+    class Q start
+    class D1,D8,D15,D22 day
+```
 
-**Already use Excel at work and want the advanced stuff?** Go straight to **Day 22**. Advanced charts, dynamic arrays, Power Query merges, Power Pivot with DAX, macros, and a full capstone. This is production-grade Excel.
+<sub><i>Click any node to jump straight to that day's folder.</i></sub>
+
+If diagrams don't render in your client, here's the short version:
+
+- **Never used Excel properly?** → [Day 1](./day_01_getting_started) - interface + your first workbook
+- **Basics rusty?** → [Day 8](./day_08_logical_functions) - IF, text, aggregates, pivot tables
+- **Comfortable but no lookups?** → [Day 15](./day_15_conditional_formatting_2) - VLOOKUP, INDEX+MATCH, XLOOKUP, Power Query
+- **Already use Excel at work?** → [Day 22](./day_22_data_viz_advanced) - Power Pivot, DAX, macros, capstone
 
 ---
 
