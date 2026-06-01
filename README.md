@@ -16,9 +16,50 @@
   This is the 30-day structure that gets you there - daily lessons, real workbooks, real exercises.
 </p>
 
-<p align="center">
-  <img src="assets/banners/progress-stamp.svg" width="100%" alt="Challenge progress"/>
-</p>
+<!-- PROGRESS-GRID -->
+<p align="center"><sub><b>30 OF 30</b> &nbsp;&middot;&nbsp; <i>tap any tile to start watching</i></sub></p>
+
+<table align="center" cellpadding="3" cellspacing="0" border="0">
+  <tr>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=jAryJn2vhNQ" title="Day 1: Getting Started with Excel"><img src="assets/banners/progress/day-01.svg" width="48" height="48" alt="Day 1"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=Ttb1WuotHIs" title="Day 2: Formatting Data for Analysis"><img src="assets/banners/progress/day-02.svg" width="48" height="48" alt="Day 2"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=ggQBWnZUclo" title="Day 3: Formulas & Functions"><img src="assets/banners/progress/day-03.svg" width="48" height="48" alt="Day 3"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=3FZcAIGCB3g" title="Day 4: Sorting & Filtering"><img src="assets/banners/progress/day-04.svg" width="48" height="48" alt="Day 4"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=xo-kVwDqaWc" title="Day 5: Data Visualisation Basics"><img src="assets/banners/progress/day-05.svg" width="48" height="48" alt="Day 5"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=kWVdkiz6-2M" title="Day 6: Conditional Formatting (Part 1)"><img src="assets/banners/progress/day-06.svg" width="48" height="48" alt="Day 6"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=fQMHEIgvv8U" title="Day 7: Project: Week 1 Data Project"><img src="assets/banners/progress/day-07.svg" width="48" height="48" alt="Day 7"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=5oJ5T9o0GJw" title="Day 8: Logical Functions"><img src="assets/banners/progress/day-08.svg" width="48" height="48" alt="Day 8"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=ns1dbkGGt-k" title="Day 9: Text Functions"><img src="assets/banners/progress/day-09.svg" width="48" height="48" alt="Day 9"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=X9N7qNgegZ8" title="Day 10: Aggregate Functions"><img src="assets/banners/progress/day-10.svg" width="48" height="48" alt="Day 10"/></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=8CPdq6LSF5U" title="Day 11: Pivot Tables (Part 1)"><img src="assets/banners/progress/day-11.svg" width="48" height="48" alt="Day 11"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=iyDYuZAMD9A" title="Day 12: Pivot Tables (Part 2)"><img src="assets/banners/progress/day-12.svg" width="48" height="48" alt="Day 12"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=-Kafb-ypHaM" title="Day 13: Data Validation"><img src="assets/banners/progress/day-13.svg" width="48" height="48" alt="Day 13"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=Y_fwPqS0YHs" title="Day 14: Project: Week 2 Data Project"><img src="assets/banners/progress/day-14.svg" width="48" height="48" alt="Day 14"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=q5IrQWp_Z8E" title="Day 15: Conditional Formatting (Part 2)"><img src="assets/banners/progress/day-15.svg" width="48" height="48" alt="Day 15"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=G6_TYOiv1wg" title="Day 16: VLOOKUP & HLOOKUP"><img src="assets/banners/progress/day-16.svg" width="48" height="48" alt="Day 16"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=mqtgqlj6QMc" title="Day 17: INDEX & MATCH"><img src="assets/banners/progress/day-17.svg" width="48" height="48" alt="Day 17"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=vJf5CWBtA_4" title="Day 18: XLOOKUP"><img src="assets/banners/progress/day-18.svg" width="48" height="48" alt="Day 18"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=RgAOED78C-E" title="Day 19: Data Cleaning"><img src="assets/banners/progress/day-19.svg" width="48" height="48" alt="Day 19"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=R1M2p3kV9mo" title="Day 20: Power Query (Part 1)"><img src="assets/banners/progress/day-20.svg" width="48" height="48" alt="Day 20"/></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=J7YeXpfXTxI" title="Day 21: Project: Week 3 Data Project"><img src="assets/banners/progress/day-21.svg" width="48" height="48" alt="Day 21"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=FuTsKAqN3NY" title="Day 22: Data Visualisation (Advanced)"><img src="assets/banners/progress/day-22.svg" width="48" height="48" alt="Day 22"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=YykiAwglQFQ" title="Day 23: Dynamic Array Functions"><img src="assets/banners/progress/day-23.svg" width="48" height="48" alt="Day 23"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=JZs-nMaiaPI" title="Day 24: Power Query (Part 2)"><img src="assets/banners/progress/day-24.svg" width="48" height="48" alt="Day 24"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=oD7HE3W8EuY" title="Day 25: Power Pivot & DAX"><img src="assets/banners/progress/day-25.svg" width="48" height="48" alt="Day 25"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=jvjCL3Ht0RQ" title="Day 26: Data Quality & Auditing"><img src="assets/banners/progress/day-26.svg" width="48" height="48" alt="Day 26"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=LVPJCpfrd54" title="Day 27: Macros & VBA Automation"><img src="assets/banners/progress/day-27.svg" width="48" height="48" alt="Day 27"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=zQoKK_-0vUk" title="Day 28: Building a Data-Entry Form"><img src="assets/banners/progress/day-28.svg" width="48" height="48" alt="Day 28"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=hNgZAPLCjwo" title="Day 29: Keyboard Shortcuts"><img src="assets/banners/progress/day-29.svg" width="48" height="48" alt="Day 29"/></a></td>
+    <td align="center" valign="middle"><a href="https://www.youtube.com/watch?v=lz_JA_t_DSg" title="Day 30: Capstone: Final Data Project"><img src="assets/banners/progress/day-30.svg" width="48" height="48" alt="Day 30"/></a></td>
+  </tr>
+</table>
+
+<p align="center"><sub><i>The whole challenge is live. Tap any tile to start.</i></sub></p>
+<!-- /PROGRESS-GRID -->
 
 ---
 
