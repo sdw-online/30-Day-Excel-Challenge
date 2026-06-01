@@ -41,3 +41,12 @@ Open the files in this folder and follow along with the [video lesson](https://w
 <p align="center">
   <a href="../day_05_data_viz_basics/">&#9664; Day 5: Data Visualisation Basics</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="../day_07_week1_practice/">Day 7: Project: Week 1 Data Project &#9654;</a>
 </p>
+
+---
+
+<!-- CLIFFHANGER -->
+<p align="center"><sub><b>UP NEXT</b></sub></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=fQMHEIgvv8U"><img src="https://img.youtube.com/vi/fQMHEIgvv8U/maxresdefault.jpg" width="480" alt="Day 7 - Project: Week 1 Data Project"/></a></p>
+<p align="center"><b>Day 7 &nbsp;&middot;&nbsp; Project: Week 1 Data Project</b></p>
+<p align="center"><i>The day you stop learning and start building.</i></p>
+<!-- /CLIFFHANGER -->

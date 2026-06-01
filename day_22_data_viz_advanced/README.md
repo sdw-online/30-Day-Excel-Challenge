@@ -41,3 +41,12 @@ Open the files in this folder and follow along with the [video lesson](https://w
 <p align="center">
   <a href="../day_21_week3_practice/">&#9664; Day 21: Project: Week 3 Data Project</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="../day_23_dynamic_arrays_text/">Day 23: Dynamic Array Functions &#9654;</a>
 </p>
+
+---
+
+<!-- CLIFFHANGER -->
+<p align="center"><sub><b>UP NEXT</b></sub></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=YykiAwglQFQ"><img src="https://img.youtube.com/vi/YykiAwglQFQ/maxresdefault.jpg" width="480" alt="Day 23 - Dynamic Array Functions"/></a></p>
+<p align="center"><b>Day 23 &nbsp;&middot;&nbsp; Dynamic Array Functions</b></p>
+<p align="center"><i>One formula. A whole spilled range. The future of Excel.</i></p>
+<!-- /CLIFFHANGER -->

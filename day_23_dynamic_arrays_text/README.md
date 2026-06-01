@@ -41,3 +41,12 @@ Open the files in this folder and follow along with the [video lesson](https://w
 <p align="center">
   <a href="../day_22_data_viz_advanced/">&#9664; Day 22: Data Visualisation (Advanced)</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="../day_24_power_query_2/">Day 24: Power Query (Part 2) &#9654;</a>
 </p>
+
+---
+
+<!-- CLIFFHANGER -->
+<p align="center"><sub><b>UP NEXT</b></sub></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=JZs-nMaiaPI"><img src="https://img.youtube.com/vi/JZs-nMaiaPI/maxresdefault.jpg" width="480" alt="Day 24 - Power Query (Part 2)"/></a></p>
+<p align="center"><b>Day 24 &nbsp;&middot;&nbsp; Power Query (Part 2)</b></p>
+<p align="center"><i>Where Excel stops being a spreadsheet and starts being a database.</i></p>
+<!-- /CLIFFHANGER -->

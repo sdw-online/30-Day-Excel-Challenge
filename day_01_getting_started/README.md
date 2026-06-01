@@ -41,3 +41,12 @@ Open the files in this folder and follow along with the [video lesson](https://w
 <p align="center">
   <a href="../day_02_formatting_for_analysis/">Day 2: Formatting Data for Analysis &#9654;</a>
 </p>
+
+---
+
+<!-- CLIFFHANGER -->
+<p align="center"><sub><b>UP NEXT</b></sub></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=Ttb1WuotHIs"><img src="https://img.youtube.com/vi/Ttb1WuotHIs/maxresdefault.jpg" width="480" alt="Day 2 - Formatting Data for Analysis"/></a></p>
+<p align="center"><b>Day 2 &nbsp;&middot;&nbsp; Formatting Data for Analysis</b></p>
+<p align="center"><i>Bad charts hide insight. Good ones force it.</i></p>
+<!-- /CLIFFHANGER -->

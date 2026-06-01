@@ -41,3 +41,12 @@ Open the files in this folder and follow along with the [video lesson](https://w
 <p align="center">
   <a href="../day_28_data_entry_forms/">&#9664; Day 28: Building a Data-Entry Form</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="../day_30_final_project/">Day 30: Capstone: Final Data Project &#9654;</a>
 </p>
+
+---
+
+<!-- CLIFFHANGER -->
+<p align="center"><sub><b>UP NEXT</b></sub></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=lz_JA_t_DSg"><img src="https://img.youtube.com/vi/lz_JA_t_DSg/maxresdefault.jpg" width="480" alt="Day 30 - Capstone: Final Data Project"/></a></p>
+<p align="center"><b>Day 30 &nbsp;&middot;&nbsp; Capstone: Final Data Project</b></p>
+<p align="center"><i>The day you stop learning and start building.</i></p>
+<!-- /CLIFFHANGER -->

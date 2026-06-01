@@ -45,3 +45,12 @@ Open the files in this folder and follow along with the [video lesson](https://w
 <p align="center">
   <a href="../day_04_sorting_and_filtering/">&#9664; Day 4: Sorting & Filtering</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="../day_06_conditional_formatting_1/">Day 6: Conditional Formatting (Part 1) &#9654;</a>
 </p>
+
+---
+
+<!-- CLIFFHANGER -->
+<p align="center"><sub><b>UP NEXT</b></sub></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=kWVdkiz6-2M"><img src="https://img.youtube.com/vi/kWVdkiz6-2M/maxresdefault.jpg" width="480" alt="Day 6 - Conditional Formatting (Part 1)"/></a></p>
+<p align="center"><b>Day 6 &nbsp;&middot;&nbsp; Conditional Formatting (Part 1)</b></p>
+<p align="center"><i>Bad charts hide insight. Good ones force it.</i></p>
+<!-- /CLIFFHANGER -->

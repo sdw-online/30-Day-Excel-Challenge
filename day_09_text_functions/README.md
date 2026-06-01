@@ -41,3 +41,12 @@ Open the files in this folder and follow along with the [video lesson](https://w
 <p align="center">
   <a href="../day_08_logical_functions/">&#9664; Day 8: Logical Functions (IF, IFS, AND, OR)</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="../day_10_aggregate_functions/">Day 10: Aggregate Functions &#9654;</a>
 </p>
+
+---
+
+<!-- CLIFFHANGER -->
+<p align="center"><sub><b>UP NEXT</b></sub></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=X9N7qNgegZ8"><img src="https://img.youtube.com/vi/X9N7qNgegZ8/maxresdefault.jpg" width="480" alt="Day 10 - Aggregate Functions"/></a></p>
+<p align="center"><b>Day 10 &nbsp;&middot;&nbsp; Aggregate Functions</b></p>
+<p align="center"><i>Aggregates have one trap that turns reports into lies.</i></p>
+<!-- /CLIFFHANGER -->

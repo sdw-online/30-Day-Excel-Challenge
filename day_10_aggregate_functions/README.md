@@ -45,3 +45,12 @@ Open the files in this folder and follow along with the [video lesson](https://w
 <p align="center">
   <a href="../day_09_text_functions/">&#9664; Day 9: Text Functions</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="../day_11_pivot_tables_1/">Day 11: Pivot Tables (Part 1) &#9654;</a>
 </p>
+
+---
+
+<!-- CLIFFHANGER -->
+<p align="center"><sub><b>UP NEXT</b></sub></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=8CPdq6LSF5U"><img src="https://img.youtube.com/vi/8CPdq6LSF5U/maxresdefault.jpg" width="480" alt="Day 11 - Pivot Tables (Part 1)"/></a></p>
+<p align="center"><b>Day 11 &nbsp;&middot;&nbsp; Pivot Tables (Part 1)</b></p>
+<p align="center"><i>Pivot tables eat hours of manual work in seconds.</i></p>
+<!-- /CLIFFHANGER -->

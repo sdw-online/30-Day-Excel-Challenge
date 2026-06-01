@@ -45,3 +45,12 @@ Open the files in this folder and follow along with the [video lesson](https://w
 <p align="center">
   <a href="../day_06_conditional_formatting_1/">&#9664; Day 6: Conditional Formatting (Part 1)</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="../day_08_logical_functions/">Day 8: Logical Functions (IF, IFS, AND, OR) &#9654;</a>
 </p>
+
+---
+
+<!-- CLIFFHANGER -->
+<p align="center"><sub><b>UP NEXT</b></sub></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=5oJ5T9o0GJw"><img src="https://img.youtube.com/vi/5oJ5T9o0GJw/maxresdefault.jpg" width="480" alt="Day 8 - Logical Functions"/></a></p>
+<p align="center"><b>Day 8 &nbsp;&middot;&nbsp; Logical Functions</b></p>
+<p align="center"><i>Logical Functions - the thing most people get wrong.</i></p>
+<!-- /CLIFFHANGER -->

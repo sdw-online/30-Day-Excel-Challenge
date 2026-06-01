@@ -41,3 +41,12 @@ Open the files in this folder and follow along with the [video lesson](https://w
 <p align="center">
   <a href="../day_25_power_pivot/">&#9664; Day 25: Power Pivot & DAX</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="../day_27_macros_automation/">Day 27: Macros & VBA Automation &#9654;</a>
 </p>
+
+---
+
+<!-- CLIFFHANGER -->
+<p align="center"><sub><b>UP NEXT</b></sub></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=LVPJCpfrd54"><img src="https://img.youtube.com/vi/LVPJCpfrd54/maxresdefault.jpg" width="480" alt="Day 27 - Macros & VBA Automation"/></a></p>
+<p align="center"><b>Day 27 &nbsp;&middot;&nbsp; Macros & VBA Automation</b></p>
+<p align="center"><i>Automate it once. Save the time forever.</i></p>
+<!-- /CLIFFHANGER -->

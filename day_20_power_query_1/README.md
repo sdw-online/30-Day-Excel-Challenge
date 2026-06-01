@@ -45,3 +45,12 @@ Open the files in this folder and follow along with the [video lesson](https://w
 <p align="center">
   <a href="../day_19_data_cleaning/">&#9664; Day 19: Data Cleaning</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="../day_21_week3_practice/">Day 21: Project: Week 3 Data Project &#9654;</a>
 </p>
+
+---
+
+<!-- CLIFFHANGER -->
+<p align="center"><sub><b>UP NEXT</b></sub></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=J7YeXpfXTxI"><img src="https://img.youtube.com/vi/J7YeXpfXTxI/maxresdefault.jpg" width="480" alt="Day 21 - Project: Week 3 Data Project"/></a></p>
+<p align="center"><b>Day 21 &nbsp;&middot;&nbsp; Project: Week 3 Data Project</b></p>
+<p align="center"><i>The day you stop learning and start building.</i></p>
+<!-- /CLIFFHANGER -->

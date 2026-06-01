@@ -41,3 +41,12 @@ Open the files in this folder and follow along with the [video lesson](https://w
 <p align="center">
   <a href="../day_12_pivot_tables_2/">&#9664; Day 12: Pivot Tables (Part 2)</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="../day_14_week2_practice/">Day 14: Project: Week 2 Data Project &#9654;</a>
 </p>
+
+---
+
+<!-- CLIFFHANGER -->
+<p align="center"><sub><b>UP NEXT</b></sub></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=Y_fwPqS0YHs"><img src="https://img.youtube.com/vi/Y_fwPqS0YHs/maxresdefault.jpg" width="480" alt="Day 14 - Project: Week 2 Data Project"/></a></p>
+<p align="center"><b>Day 14 &nbsp;&middot;&nbsp; Project: Week 2 Data Project</b></p>
+<p align="center"><i>The day you stop learning and start building.</i></p>
+<!-- /CLIFFHANGER -->

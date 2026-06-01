@@ -45,3 +45,12 @@ Open the files in this folder and follow along with the [video lesson](https://w
 <p align="center">
   <a href="../day_29_useful_shortcuts/">&#9664; Day 29: Keyboard Shortcuts</a>
 </p>
+
+---
+
+<!-- CLIFFHANGER -->
+<p align="center"><sub><b>YOU DID IT</b></sub></p>
+<p align="center"><b>All 30 days.</b> That's the challenge done.</p>
+<p align="center"><i>Now build something with it.</i></p>
+<p align="center"><a href="../README.md">&larr; Back to the curriculum</a></p>
+<!-- /CLIFFHANGER -->

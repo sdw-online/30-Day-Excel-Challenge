@@ -45,3 +45,12 @@ Open the files in this folder and follow along with the [video lesson](https://w
 <p align="center">
   <a href="../day_14_week2_practice/">&#9664; Day 14: Project: Week 2 Data Project</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="../day_16_vlookup_hlookup/">Day 16: VLOOKUP & HLOOKUP &#9654;</a>
 </p>
+
+---
+
+<!-- CLIFFHANGER -->
+<p align="center"><sub><b>UP NEXT</b></sub></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=G6_TYOiv1wg"><img src="https://img.youtube.com/vi/G6_TYOiv1wg/maxresdefault.jpg" width="480" alt="Day 16 - VLOOKUP & HLOOKUP"/></a></p>
+<p align="center"><b>Day 16 &nbsp;&middot;&nbsp; VLOOKUP & HLOOKUP</b></p>
+<p align="center"><i>Lookups separate the spreadsheet person from everyone else.</i></p>
+<!-- /CLIFFHANGER -->

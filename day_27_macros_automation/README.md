@@ -41,3 +41,12 @@ Open the files in this folder and follow along with the [video lesson](https://w
 <p align="center">
   <a href="../day_26_data_quality_auditing/">&#9664; Day 26: Data Quality & Auditing</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="../day_28_data_entry_forms/">Day 28: Building a Data-Entry Form &#9654;</a>
 </p>
+
+---
+
+<!-- CLIFFHANGER -->
+<p align="center"><sub><b>UP NEXT</b></sub></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=zQoKK_-0vUk"><img src="https://img.youtube.com/vi/zQoKK_-0vUk/maxresdefault.jpg" width="480" alt="Day 28 - Building a Data-Entry Form"/></a></p>
+<p align="center"><b>Day 28 &nbsp;&middot;&nbsp; Building a Data-Entry Form</b></p>
+<p align="center"><i>Forms turn spreadsheets into apps.</i></p>
+<!-- /CLIFFHANGER -->

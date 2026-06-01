@@ -41,3 +41,12 @@ Open the files in this folder and follow along with the [video lesson](https://w
 <p align="center">
   <a href="../day_02_formatting_for_analysis/">&#9664; Day 2: Formatting Data for Analysis</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="../day_04_sorting_and_filtering/">Day 4: Sorting & Filtering &#9654;</a>
 </p>
+
+---
+
+<!-- CLIFFHANGER -->
+<p align="center"><sub><b>UP NEXT</b></sub></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=3FZcAIGCB3g"><img src="https://img.youtube.com/vi/3FZcAIGCB3g/maxresdefault.jpg" width="480" alt="Day 4 - Sorting & Filtering"/></a></p>
+<p align="center"><b>Day 4 &nbsp;&middot;&nbsp; Sorting & Filtering</b></p>
+<p align="center"><i>The single most-used SQL clause. Get it wrong, get nothing.</i></p>
+<!-- /CLIFFHANGER -->

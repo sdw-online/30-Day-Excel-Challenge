@@ -45,3 +45,12 @@ Open the files in this folder and follow along with the [video lesson](https://w
 <p align="center">
   <a href="../day_24_power_query_2/">&#9664; Day 24: Power Query (Part 2)</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="../day_26_data_quality_auditing/">Day 26: Data Quality & Auditing &#9654;</a>
 </p>
+
+---
+
+<!-- CLIFFHANGER -->
+<p align="center"><sub><b>UP NEXT</b></sub></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=jvjCL3Ht0RQ"><img src="https://img.youtube.com/vi/jvjCL3Ht0RQ/maxresdefault.jpg" width="480" alt="Day 26 - Data Quality & Auditing"/></a></p>
+<p align="center"><b>Day 26 &nbsp;&middot;&nbsp; Data Quality & Auditing</b></p>
+<p align="center"><i>Clean data is not glamorous. It is the difference between right and very wrong.</i></p>
+<!-- /CLIFFHANGER -->

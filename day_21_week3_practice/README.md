@@ -45,3 +45,12 @@ Open the files in this folder and follow along with the [video lesson](https://w
 <p align="center">
   <a href="../day_20_power_query_1/">&#9664; Day 20: Power Query (Part 1)</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="../day_22_data_viz_advanced/">Day 22: Data Visualisation (Advanced) &#9654;</a>
 </p>
+
+---
+
+<!-- CLIFFHANGER -->
+<p align="center"><sub><b>UP NEXT</b></sub></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=FuTsKAqN3NY"><img src="https://img.youtube.com/vi/FuTsKAqN3NY/maxresdefault.jpg" width="480" alt="Day 22 - Data Visualisation (Advanced)"/></a></p>
+<p align="center"><b>Day 22 &nbsp;&middot;&nbsp; Data Visualisation (Advanced)</b></p>
+<p align="center"><i>Bad charts hide insight. Good ones force it.</i></p>
+<!-- /CLIFFHANGER -->

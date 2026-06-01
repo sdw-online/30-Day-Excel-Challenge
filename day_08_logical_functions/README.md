@@ -41,3 +41,12 @@ Open the files in this folder and follow along with the [video lesson](https://w
 <p align="center">
   <a href="../day_07_week1_practice/">&#9664; Day 7: Project: Week 1 Data Project</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="../day_09_text_functions/">Day 9: Text Functions &#9654;</a>
 </p>
+
+---
+
+<!-- CLIFFHANGER -->
+<p align="center"><sub><b>UP NEXT</b></sub></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=ns1dbkGGt-k"><img src="https://img.youtube.com/vi/ns1dbkGGt-k/maxresdefault.jpg" width="480" alt="Day 9 - Text Functions"/></a></p>
+<p align="center"><b>Day 9 &nbsp;&middot;&nbsp; Text Functions</b></p>
+<p align="center"><i>Messy text is everywhere. The fix is one chapter away.</i></p>
+<!-- /CLIFFHANGER -->

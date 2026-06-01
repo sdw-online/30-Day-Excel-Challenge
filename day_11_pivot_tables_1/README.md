@@ -41,3 +41,12 @@ Open the files in this folder and follow along with the [video lesson](https://w
 <p align="center">
   <a href="../day_10_aggregate_functions/">&#9664; Day 10: Aggregate Functions</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="../day_12_pivot_tables_2/">Day 12: Pivot Tables (Part 2) &#9654;</a>
 </p>
+
+---
+
+<!-- CLIFFHANGER -->
+<p align="center"><sub><b>UP NEXT</b></sub></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=iyDYuZAMD9A"><img src="https://img.youtube.com/vi/iyDYuZAMD9A/maxresdefault.jpg" width="480" alt="Day 12 - Pivot Tables (Part 2)"/></a></p>
+<p align="center"><b>Day 12 &nbsp;&middot;&nbsp; Pivot Tables (Part 2)</b></p>
+<p align="center"><i>Pivot tables eat hours of manual work in seconds.</i></p>
+<!-- /CLIFFHANGER -->
