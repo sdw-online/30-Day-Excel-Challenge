@@ -11,8 +11,13 @@
 </p>
 
 <p align="center">
-  Master Excel from scratch with daily video lessons, hands-on datasets, and real-world exercises.<br>
-  Whether you're aiming for your first data role or levelling up your spreadsheet skills - this is the structure to get you there.
+  <b>By Day 30, you'll be the spreadsheet person on your team.</b><br>
+  The one who builds the workbook everyone else uses. The one who finishes in 5 minutes what takes others a day.<br>
+  This is the 30-day structure that gets you there - daily lessons, real workbooks, real exercises.
+</p>
+
+<p align="center">
+  <img src="assets/banners/progress-stamp.svg" width="100%" alt="Challenge progress"/>
 </p>
 
 ---
@@ -120,13 +125,13 @@ If diagrams don't render in your client, here's the short version:
 
 | Day | Topic | What You'll Do | Video |
 |:---:|-------|----------------|:-----:|
-| 01 | Getting Started with Excel | Learn the interface, create your first workbook, and enter data | [Watch](https://www.youtube.com/watch?v=jAryJn2vhNQ) |
-| 02 | Formatting Data for Analysis | Format numbers, dates, and cells so your data is easy to read and analyse | [Watch](https://www.youtube.com/watch?v=Ttb1WuotHIs) |
-| 03 | Formulas & Functions | Write your first formulas - SUM, AVERAGE, MAX, MIN - and understand cell references | [Watch](https://www.youtube.com/watch?v=ggQBWnZUclo) |
-| 04 | Sorting & Filtering | Sort data by any column and use filters to find exactly what you need | [Watch](https://www.youtube.com/watch?v=3FZcAIGCB3g) |
-| 05 | Data Visualisation Basics | Build column, bar, line, and pie charts that actually communicate clearly | [Watch](https://www.youtube.com/watch?v=xo-kVwDqaWc) |
-| 06 | Conditional Formatting (Part 1) | Highlight cells automatically based on rules - data bars, colour scales, icon sets | [Watch](https://www.youtube.com/watch?v=kWVdkiz6-2M) |
-| 07 | **Project:** Week 1 Data Project | Put it all together - build a complete analysis from a real dataset | [Watch](https://www.youtube.com/watch?v=fQMHEIgvv8U) |
+| 01 | Getting Started with Excel | Learn the interface, create your first workbook, and enter data<br><sub><i>The 30 minutes that decide whether you finish the challenge.</i></sub> | [Watch](https://www.youtube.com/watch?v=jAryJn2vhNQ) |
+| 02 | Formatting Data for Analysis | Format numbers, dates, and cells so your data is easy to read and analyse<br><sub><i>Bad charts hide insight. Good ones force it.</i></sub> | [Watch](https://www.youtube.com/watch?v=Ttb1WuotHIs) |
+| 03 | Formulas & Functions | Write your first formulas - SUM, AVERAGE, MAX, MIN - and understand cell references<br><sub><i>Forms turn spreadsheets into apps.</i></sub> | [Watch](https://www.youtube.com/watch?v=ggQBWnZUclo) |
+| 04 | Sorting & Filtering | Sort data by any column and use filters to find exactly what you need<br><sub><i>The single most-used SQL clause. Get it wrong, get nothing.</i></sub> | [Watch](https://www.youtube.com/watch?v=3FZcAIGCB3g) |
+| 05 | Data Visualisation Basics | Build column, bar, line, and pie charts that actually communicate clearly<br><sub><i>Bad charts hide insight. Good ones force it.</i></sub> | [Watch](https://www.youtube.com/watch?v=xo-kVwDqaWc) |
+| 06 | Conditional Formatting (Part 1) | Highlight cells automatically based on rules - data bars, colour scales, icon sets<br><sub><i>Bad charts hide insight. Good ones force it.</i></sub> | [Watch](https://www.youtube.com/watch?v=kWVdkiz6-2M) |
+| 07 | **Project:** Week 1 Data Project | Put it all together - build a complete analysis from a real dataset<br><sub><i>The day you stop learning and start building.</i></sub> | [Watch](https://www.youtube.com/watch?v=fQMHEIgvv8U) |
 
 <br>
 
@@ -136,13 +141,13 @@ If diagrams don't render in your client, here's the short version:
 
 | Day | Topic | What You'll Do | Video |
 |:---:|-------|----------------|:-----:|
-| 08 | Logical Functions | Use IF, IFS, AND, OR to add conditional logic to your spreadsheets | [Watch](https://www.youtube.com/watch?v=5oJ5T9o0GJw) |
-| 09 | Text Functions | Clean and extract text with LEFT, RIGHT, MID, TRIM, and CONCATENATE | [Watch](https://www.youtube.com/watch?v=ns1dbkGGt-k) |
-| 10 | Aggregate Functions | Use SUMIFS, COUNTIFS, AVERAGEIFS to summarise data with multiple conditions | [Watch](https://www.youtube.com/watch?v=X9N7qNgegZ8) |
-| 11 | Pivot Tables (Part 1) | Create pivot tables to summarise thousands of rows in seconds | [Watch](https://www.youtube.com/watch?v=8CPdq6LSF5U) |
-| 12 | Pivot Tables (Part 2) | Add slicers, calculated fields, pivot charts, and learn refresh logic | [Watch](https://www.youtube.com/watch?v=iyDYuZAMD9A) |
-| 13 | Data Validation | Build drop-down lists and input rules to control what users can enter | [Watch](https://www.youtube.com/watch?v=-Kafb-ypHaM) |
-| 14 | **Project:** Week 2 Data Project | Combine functions and pivot tables into a complete analytical report | [Watch](https://www.youtube.com/watch?v=Y_fwPqS0YHs) |
+| 08 | Logical Functions | Use IF, IFS, AND, OR to add conditional logic to your spreadsheets<br><sub><i>Logical Functions - the thing most people get wrong.</i></sub> | [Watch](https://www.youtube.com/watch?v=5oJ5T9o0GJw) |
+| 09 | Text Functions | Clean and extract text with LEFT, RIGHT, MID, TRIM, and CONCATENATE<br><sub><i>Messy text is everywhere. The fix is one chapter away.</i></sub> | [Watch](https://www.youtube.com/watch?v=ns1dbkGGt-k) |
+| 10 | Aggregate Functions | Use SUMIFS, COUNTIFS, AVERAGEIFS to summarise data with multiple conditions<br><sub><i>Aggregates have one trap that turns reports into lies.</i></sub> | [Watch](https://www.youtube.com/watch?v=X9N7qNgegZ8) |
+| 11 | Pivot Tables (Part 1) | Create pivot tables to summarise thousands of rows in seconds<br><sub><i>Pivot tables eat hours of manual work in seconds.</i></sub> | [Watch](https://www.youtube.com/watch?v=8CPdq6LSF5U) |
+| 12 | Pivot Tables (Part 2) | Add slicers, calculated fields, pivot charts, and learn refresh logic<br><sub><i>Pivot tables eat hours of manual work in seconds.</i></sub> | [Watch](https://www.youtube.com/watch?v=iyDYuZAMD9A) |
+| 13 | Data Validation | Build drop-down lists and input rules to control what users can enter<br><sub><i>Clean data is not glamorous. It is the difference between right and very wrong.</i></sub> | [Watch](https://www.youtube.com/watch?v=-Kafb-ypHaM) |
+| 14 | **Project:** Week 2 Data Project | Combine functions and pivot tables into a complete analytical report<br><sub><i>The day you stop learning and start building.</i></sub> | [Watch](https://www.youtube.com/watch?v=Y_fwPqS0YHs) |
 
 <br>
 
@@ -152,13 +157,13 @@ If diagrams don't render in your client, here's the short version:
 
 | Day | Topic | What You'll Do | Video |
 |:---:|-------|----------------|:-----:|
-| 15 | Conditional Formatting (Part 2) | Write custom formulas for advanced highlighting - row-level rules and dynamic patterns | [Watch](https://www.youtube.com/watch?v=q5IrQWp_Z8E) |
-| 16 | VLOOKUP & HLOOKUP | Look up values across sheets and understand exact vs approximate matching | [Watch](https://www.youtube.com/watch?v=G6_TYOiv1wg) |
-| 17 | INDEX & MATCH | The flexible alternative to VLOOKUP - left lookups, two-way lookups, no column counting | [Watch](https://www.youtube.com/watch?v=mqtgqlj6QMc) |
-| 18 | XLOOKUP | The modern replacement for VLOOKUP - simpler syntax, multiple returns, wildcards | [Watch](https://www.youtube.com/watch?v=vJf5CWBtA_4) |
-| 19 | Data Cleaning | Fix messy data with Find & Replace, Remove Duplicates, Text to Columns, and Flash Fill | [Watch](https://www.youtube.com/watch?v=RgAOED78C-E) |
-| 20 | Power Query (Part 1) | Automate data imports and transformations with Get & Transform | [Watch](https://www.youtube.com/watch?v=R1M2p3kV9mo) |
-| 21 | **Project:** Week 3 Data Project | Build a lookup-powered, cleaned data pipeline with a polished output | [Watch](https://www.youtube.com/watch?v=J7YeXpfXTxI) |
+| 15 | Conditional Formatting (Part 2) | Write custom formulas for advanced highlighting - row-level rules and dynamic patterns<br><sub><i>Bad charts hide insight. Good ones force it.</i></sub> | [Watch](https://www.youtube.com/watch?v=q5IrQWp_Z8E) |
+| 16 | VLOOKUP & HLOOKUP | Look up values across sheets and understand exact vs approximate matching<br><sub><i>Lookups separate the spreadsheet person from everyone else.</i></sub> | [Watch](https://www.youtube.com/watch?v=G6_TYOiv1wg) |
+| 17 | INDEX & MATCH | The flexible alternative to VLOOKUP - left lookups, two-way lookups, no column counting<br><sub><i>Lookups separate the spreadsheet person from everyone else.</i></sub> | [Watch](https://www.youtube.com/watch?v=mqtgqlj6QMc) |
+| 18 | XLOOKUP | The modern replacement for VLOOKUP - simpler syntax, multiple returns, wildcards<br><sub><i>Lookups separate the spreadsheet person from everyone else.</i></sub> | [Watch](https://www.youtube.com/watch?v=vJf5CWBtA_4) |
+| 19 | Data Cleaning | Fix messy data with Find & Replace, Remove Duplicates, Text to Columns, and Flash Fill<br><sub><i>Clean data is not glamorous. It is the difference between right and very wrong.</i></sub> | [Watch](https://www.youtube.com/watch?v=RgAOED78C-E) |
+| 20 | Power Query (Part 1) | Automate data imports and transformations with Get & Transform<br><sub><i>Where Excel stops being a spreadsheet and starts being a database.</i></sub> | [Watch](https://www.youtube.com/watch?v=R1M2p3kV9mo) |
+| 21 | **Project:** Week 3 Data Project | Build a lookup-powered, cleaned data pipeline with a polished output<br><sub><i>The day you stop learning and start building.</i></sub> | [Watch](https://www.youtube.com/watch?v=J7YeXpfXTxI) |
 
 <br>
 
@@ -168,15 +173,15 @@ If diagrams don't render in your client, here's the short version:
 
 | Day | Topic | What You'll Do | Video |
 |:---:|-------|----------------|:-----:|
-| 22 | Data Visualisation (Advanced) | Build combo charts, sparklines, and dynamic dashboard layouts | [Watch](https://www.youtube.com/watch?v=FuTsKAqN3NY) |
-| 23 | Dynamic Array Functions | Use FILTER, SORT, SORTBY, UNIQUE to build live-updating outputs | [Watch](https://www.youtube.com/watch?v=YykiAwglQFQ) |
-| 24 | Power Query (Part 2) | Merge and append queries, add custom columns, and use parameters | [Watch](https://www.youtube.com/watch?v=JZs-nMaiaPI) |
-| 25 | Power Pivot & DAX | Build a data model with relationships and write DAX measures | [Watch](https://www.youtube.com/watch?v=oD7HE3W8EuY) |
-| 26 | Data Quality & Auditing | Check for errors, audit formulas, profile your data, and set quality rules | [Watch](https://www.youtube.com/watch?v=jvjCL3Ht0RQ) |
-| 27 | Macros & VBA Automation | Record macros, learn VBA basics, and automate repetitive tasks | [Watch](https://www.youtube.com/watch?v=LVPJCpfrd54) |
-| 28 | Building a Data-Entry Form | Create a user-friendly form with controls, validation, and auto-population | [Watch](https://www.youtube.com/watch?v=zQoKK_-0vUk) |
-| 29 | Keyboard Shortcuts | The shortcuts that save you hours every week - navigation, selection, formatting | [Watch](https://www.youtube.com/watch?v=hNgZAPLCjwo) |
-| 30 | **Capstone:** Final Data Project | Build a complete analytics platform - data pipeline, dashboard, presentation-ready | [Watch](https://www.youtube.com/watch?v=lz_JA_t_DSg) |
+| 22 | Data Visualisation (Advanced) | Build combo charts, sparklines, and dynamic dashboard layouts<br><sub><i>Bad charts hide insight. Good ones force it.</i></sub> | [Watch](https://www.youtube.com/watch?v=FuTsKAqN3NY) |
+| 23 | Dynamic Array Functions | Use FILTER, SORT, SORTBY, UNIQUE to build live-updating outputs<br><sub><i>One formula. A whole spilled range. The future of Excel.</i></sub> | [Watch](https://www.youtube.com/watch?v=YykiAwglQFQ) |
+| 24 | Power Query (Part 2) | Merge and append queries, add custom columns, and use parameters<br><sub><i>Where Excel stops being a spreadsheet and starts being a database.</i></sub> | [Watch](https://www.youtube.com/watch?v=JZs-nMaiaPI) |
+| 25 | Power Pivot & DAX | Build a data model with relationships and write DAX measures<br><sub><i>Pivot tables eat hours of manual work in seconds.</i></sub> | [Watch](https://www.youtube.com/watch?v=oD7HE3W8EuY) |
+| 26 | Data Quality & Auditing | Check for errors, audit formulas, profile your data, and set quality rules<br><sub><i>Clean data is not glamorous. It is the difference between right and very wrong.</i></sub> | [Watch](https://www.youtube.com/watch?v=jvjCL3Ht0RQ) |
+| 27 | Macros & VBA Automation | Record macros, learn VBA basics, and automate repetitive tasks<br><sub><i>Automate it once. Save the time forever.</i></sub> | [Watch](https://www.youtube.com/watch?v=LVPJCpfrd54) |
+| 28 | Building a Data-Entry Form | Create a user-friendly form with controls, validation, and auto-population<br><sub><i>Forms turn spreadsheets into apps.</i></sub> | [Watch](https://www.youtube.com/watch?v=zQoKK_-0vUk) |
+| 29 | Keyboard Shortcuts | The shortcuts that save you hours every week - navigation, selection, formatting<br><sub><i>The shortcuts pros use without thinking. You will too.</i></sub> | [Watch](https://www.youtube.com/watch?v=hNgZAPLCjwo) |
+| 30 | **Capstone:** Final Data Project | Build a complete analytics platform - data pipeline, dashboard, presentation-ready<br><sub><i>The day you stop learning and start building.</i></sub> | [Watch](https://www.youtube.com/watch?v=lz_JA_t_DSg) |
 
 ---
 
