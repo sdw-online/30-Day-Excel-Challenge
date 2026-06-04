@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1e1b4b"/>
+      <stop offset="0.5" stop-color="#312e81"/>
+      <stop offset="1" stop-color="#1e293b"/>
+    </linearGradient>
+    <pattern id="dots" x="0" y="0" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.7" fill="#ffffff" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="200" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="200" rx="14" fill="url(#dots)"/>
+  <rect width="1200" height="200" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+
+  <g transform="translate(60, 62)">
+    <circle cx="28" cy="18" r="12" fill="#312e81" stroke="#a5b4fc" stroke-opacity="0.6" stroke-width="2"/>
+    <circle cx="58" cy="18" r="12" fill="#312e81" stroke="#a5b4fc" stroke-opacity="0.45" stroke-width="2"/>
+    <circle cx="43" cy="48" r="12" fill="#312e81" stroke="#a5b4fc" stroke-opacity="0.3" stroke-width="2"/>
+    <line x1="28" y1="30" x2="43" y2="36" stroke="#a5b4fc" stroke-opacity="0.3" stroke-width="1.5"/>
+    <line x1="58" y1="30" x2="43" y2="36" stroke="#a5b4fc" stroke-opacity="0.3" stroke-width="1.5"/>
+    <line x1="28" y1="18" x2="58" y2="18" stroke="#a5b4fc" stroke-opacity="0.2" stroke-width="1.5"/>
+  </g>
+
+  <g transform="translate(200, 0)">
+    <text x="0" y="68" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="700" fill="#a5b4fc" letter-spacing="2.4">30 DAY EXCEL CHALLENGE</text>
+    <text x="0" y="110" font-family="Inter, -apple-system, sans-serif" font-size="30" font-weight="800" fill="#ffffff" letter-spacing="-0.8">Get the Excel Challenge lead magnet</text>
+    <text x="0" y="142" font-family="Inter, -apple-system, sans-serif" font-size="15" font-weight="400" fill="#cbd5e1" letter-spacing="-0.1">Exercises, templates, and guided practice for every day.</text>
+  </g>
+
+  <g transform="translate(1110, 100)">
+    <circle r="32" fill="#312e81" stroke="#a5b4fc" stroke-opacity="0.45" stroke-width="2"/>
+    <path d="M -9 0 L 9 0 M 2 -8 L 10 0 L 2 8" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+
+  <line x1="200" y1="170" x2="1070" y2="170" stroke="#a5b4fc" stroke-opacity="0.18" stroke-width="1"/>
+</svg>

@@ -156,6 +156,12 @@ If diagrams don't render in your client, here's the short version:
 
 ---
 
+<p align="center">
+  <a href="https://30dayexcelchallenge.carrd.co/"><img src="./assets/banners/community-cta.svg" alt="Get the 30 Day Excel Challenge lead magnet" width="100%"/></a>
+</p>
+
+---
+
 ## Curriculum
 
 <br>
