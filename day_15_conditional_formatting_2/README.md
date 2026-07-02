@@ -26,7 +26,7 @@
 
 ## Files
 
-Open the files in this folder and follow along with the [video lesson](https://www.youtube.com/watch?v=q5IrQWp_Z8E).
+Open the example workbook in this folder and follow along with the [video lesson](https://www.youtube.com/watch?v=q5IrQWp_Z8E). Then test yourself with the challenge in the [`practice/`](practice/) folder.
 
 ---
 

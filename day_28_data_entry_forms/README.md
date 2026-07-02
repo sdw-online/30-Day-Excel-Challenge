@@ -26,7 +26,7 @@
 
 ## Files
 
-Open the files in this folder and follow along with the [video lesson](https://www.youtube.com/watch?v=zQoKK_-0vUk).
+Open the macro-enabled workbook `day28_examples.xlsm` alongside the [video lesson](https://www.youtube.com/watch?v=zQoKK_-0vUk) - click **Enable Content** so the form macros can run. Then test yourself with the challenge in the [`practice/`](practice/) folder.
 
 ---
 

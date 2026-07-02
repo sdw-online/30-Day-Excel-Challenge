@@ -26,7 +26,7 @@
 
 ## Files
 
-Open the files in this folder and follow along with the [video lesson](https://www.youtube.com/watch?v=LVPJCpfrd54).
+Open the macro-enabled workbooks in this folder (`DataCleaningMacro.xlsm` and `DataQualityWorkbook.xlsm`) alongside the [video lesson](https://www.youtube.com/watch?v=LVPJCpfrd54) - click **Enable Content** so the macros can run. Then test yourself with the challenge in the [`practice/`](practice/) folder.
 
 ---
 

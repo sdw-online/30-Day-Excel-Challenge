@@ -26,7 +26,7 @@
 
 ## Files
 
-Open the files in this folder and follow along with the [video lesson](https://www.youtube.com/watch?v=oD7HE3W8EuY).
+Open `day25_examples.xlsx` (plus the numbered `day25_example_3/4/5.xlsx` builds) alongside the [video lesson](https://www.youtube.com/watch?v=oD7HE3W8EuY); the CSV data each model imports is in [`datasets/`](datasets/). Then test yourself with the challenge in the [`practice/`](practice/) folder.
 
 ---
 

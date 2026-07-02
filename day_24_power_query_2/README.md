@@ -26,7 +26,7 @@
 
 ## Files
 
-Open the files in this folder and follow along with the [video lesson](https://www.youtube.com/watch?v=JZs-nMaiaPI).
+The example workbooks are in [`examples/`](examples/) and the source data they use is in [`datasets/`](datasets/). Open them alongside the [video lesson](https://www.youtube.com/watch?v=JZs-nMaiaPI), then test yourself with the challenge in the [`practice/`](practice/) folder.
 
 ---
 
