@@ -87,6 +87,14 @@ Each day gives you:
 - **Practice exercises** dropping you into a real role solving a real problem
 - A link to the **next day** so you always know what's coming
 
+### Getting the files (new to GitHub?)
+
+Each day's Excel files live in that day's folder - the example workbook (e.g. `day5_examples.xlsx`) plus a `practice/` folder with the challenge workbook. Open a `day_XX_...` folder to see them. To get them onto your machine, pick one:
+
+- **Download everything (easiest):** click the green **Code** button near the top of this page, then **Download ZIP**. Unzip it and open the folder for the day you are on.
+- **Download one workbook:** click into a `day_XX_...` folder, click the `.xlsx` file, then click the **Download** (or **Download raw file**) button - GitHub cannot preview Excel files, so this is expected.
+- **Clone (if you have Git):** run `git clone https://github.com/sdw-online/30-Day-Excel-Challenge.git` in your terminal.
+
 ---
 
 ## Why This Challenge?
