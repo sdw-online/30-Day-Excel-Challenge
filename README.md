@@ -89,7 +89,7 @@ Each day gives you:
 
 ### Getting the files (new to GitHub?)
 
-Each day's Excel files live in that day's folder - the example workbook (e.g. `day5_examples.xlsx`) plus a `practice/` folder with the challenge workbook. Open a `day_XX_...` folder to see them. To get them onto your machine, pick one:
+Each day's files live in that day's folder - one or more Excel workbooks to follow along with, plus a `practice/` folder holding that day's challenge workbook. Naming varies by day (most are `dayN_examples.xlsx`; some days use an `examples/` or `datasets/` subfolder, or macro-enabled `.xlsm` files), so open the `day_XX_...` folder and read its short README to see exactly what's there. To get the files onto your machine, pick one:
 
 - **Download everything (easiest):** click the green **Code** button near the top of this page, then **Download ZIP**. Unzip it and open the folder for the day you are on.
 - **Download one workbook:** click into a `day_XX_...` folder, click the `.xlsx` file, then click the **Download** (or **Download raw file**) button - GitHub cannot preview Excel files, so this is expected.
@@ -161,6 +161,8 @@ If diagrams don't render in your client, here's the short version:
 - **Basics rusty?** → [Day 8](./day_08_logical_functions) - IF, text, aggregates, pivot tables
 - **Comfortable but no lookups?** → [Day 15](./day_15_conditional_formatting_2) - VLOOKUP, INDEX+MATCH, XLOOKUP, Power Query
 - **Already use Excel at work?** → [Day 22](./day_22_data_viz_advanced) - Power Pivot, DAX, macros, capstone
+
+<sub>Still not sure? Read the fuller <a href="guides/where-to-start.md">where to start</a> guide.</sub>
 
 ---
 
