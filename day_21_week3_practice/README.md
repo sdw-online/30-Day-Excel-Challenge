@@ -26,7 +26,7 @@
 
 ## Files
 
-Open the project workbook in this folder and follow along with the [video lesson](https://www.youtube.com/watch?v=J7YeXpfXTxI). Then test yourself with the challenge in the [`practice/`](practice/) folder.
+Open the project workbook in this folder and follow along with the [video lesson](https://www.youtube.com/watch?v=J7YeXpfXTxI). Then test yourself with the challenge in the [`practice/`](practice/) folder. When you are done, check your work against the solution workbook [`practice/Day21_Practice_Solution.xlsx`](practice/Day21_Practice_Solution.xlsx) in that folder.
 
 ---
 

@@ -89,7 +89,7 @@ Each day gives you:
 
 ### Getting the files (new to GitHub?)
 
-Each day's files live in that day's folder - one or more Excel workbooks to follow along with, plus a `practice/` folder holding that day's challenge workbook. Naming varies by day (most are `dayN_examples.xlsx`; some days use an `examples/` or `datasets/` subfolder, or macro-enabled `.xlsm` files), so open the `day_XX_...` folder and read its short README to see exactly what's there. To get the files onto your machine, pick one:
+Each day's files live in that day's folder - one or more Excel workbooks to follow along with, plus a `practice/` folder holding that day's challenge workbook **and a worked `DayNN_Practice_Solution.xlsx` so you can check your answers**. Naming varies by day (most are `dayN_examples.xlsx`; some days use an `examples/` or `datasets/` subfolder, or macro-enabled `.xlsm` files), so open the `day_XX_...` folder and read its short README to see exactly what's there. To get the files onto your machine, pick one:
 
 - **Download everything (easiest):** click the green **Code** button near the top of this page, then **Download ZIP**. Unzip it and open the folder for the day you are on.
 - **Download one workbook:** click into a `day_XX_...` folder, click the `.xlsx` file, then click the **Download** (or **Download raw file**) button - GitHub cannot preview Excel files, so this is expected.

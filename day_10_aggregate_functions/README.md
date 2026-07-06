@@ -26,7 +26,7 @@
 
 ## Files
 
-Open the example workbook in this folder and follow along with the [video lesson](https://www.youtube.com/watch?v=X9N7qNgegZ8). Then test yourself with the challenge in the [`practice/`](practice/) folder.
+Open the example workbook in this folder and follow along with the [video lesson](https://www.youtube.com/watch?v=X9N7qNgegZ8). Then test yourself with the challenge in the [`practice/`](practice/) folder. When you are done, check your work against the solution workbook [`practice/Day10_Practice_Solution.xlsx`](practice/Day10_Practice_Solution.xlsx) in that folder.
 
 ---
 

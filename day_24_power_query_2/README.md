@@ -26,7 +26,7 @@
 
 ## Files
 
-The example workbooks are in [`examples/`](examples/) and the source data they use is in [`datasets/`](datasets/). Open them alongside the [video lesson](https://www.youtube.com/watch?v=JZs-nMaiaPI), then test yourself with the challenge in the [`practice/`](practice/) folder.
+The example workbooks are in [`examples/`](examples/) and the source data they use is in [`datasets/`](datasets/). Open them alongside the [video lesson](https://www.youtube.com/watch?v=JZs-nMaiaPI), then test yourself with the challenge in the [`practice/`](practice/) folder. When you are done, check your work against the solution workbook [`practice/Day24_Practice_Solution.xlsx`](practice/Day24_Practice_Solution.xlsx) in that folder.
 
 ---
 

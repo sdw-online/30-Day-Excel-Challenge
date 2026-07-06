@@ -26,7 +26,7 @@
 
 ## Files
 
-The project workbooks are in [`exercise/`](exercise/) (`day30_final_project.xlsx` and `data_model_planning.xlsx`) and the source data is in [`datasets/`](datasets/). Open them alongside the [video lesson](https://www.youtube.com/watch?v=lz_JA_t_DSg), then test yourself with the challenge in the [`practice/`](practice/) folder.
+The project workbooks are in [`exercise/`](exercise/) (`day30_final_project.xlsx` and `data_model_planning.xlsx`) and the source data is in [`datasets/`](datasets/). Open them alongside the [video lesson](https://www.youtube.com/watch?v=lz_JA_t_DSg), then test yourself with the challenge in the [`practice/`](practice/) folder. When you are done, check your work against the solution workbook [`practice/Day30_Practice_Solution.xlsx`](practice/Day30_Practice_Solution.xlsx) in that folder.
 
 ---
 

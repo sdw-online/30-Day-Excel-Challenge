@@ -64,7 +64,7 @@ for (const d of days) {
   md += `## What You'll Learn\n\n`;
   for (const item of d.learn) { md += `- ${item}\n`; }
   md += `\n---\n\n`;
-  md += `## Files\n\nOpen the workbook in this folder and follow along with the [video lesson](${d.video}). Then test yourself with the challenge in the [\`practice/\`](practice/) folder.\n\n---\n\n`;
+  md += `## Files\n\nOpen the workbook in this folder and follow along with the [video lesson](${d.video}). Then test yourself with the challenge in the [\`practice/\`](practice/) folder. When you are done, check your work against the solution workbook [\`practice/Day${dd}_Practice_Solution.xlsx\`](practice/Day${dd}_Practice_Solution.xlsx) in that folder.\n\n---\n\n`;
 
   if (showSubscribe) {
     md += `<p align="center">\n  <a href="https://www.youtube.com/@sdw-online?sub_confirmation=1"><img src="../assets/banners/support-creator.svg" width="800" alt="Subscribe on YouTube"></a>\n</p>\n\n`;

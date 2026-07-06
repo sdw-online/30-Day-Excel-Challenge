@@ -26,7 +26,7 @@
 
 ## Files
 
-Open the macro-enabled workbooks in this folder (`DataCleaningMacro.xlsm` and `DataQualityWorkbook.xlsm`) alongside the [video lesson](https://www.youtube.com/watch?v=LVPJCpfrd54) - click **Enable Content** so the macros can run. Then test yourself with the challenge in the [`practice/`](practice/) folder.
+Open the macro-enabled workbooks in this folder (`DataCleaningMacro.xlsm` and `DataQualityWorkbook.xlsm`) alongside the [video lesson](https://www.youtube.com/watch?v=LVPJCpfrd54) - click **Enable Content** so the macros can run. Then test yourself with the challenge in the [`practice/`](practice/) folder. When you are done, check your work against the solution workbook [`practice/Day27_Practice_Solution.xlsx`](practice/Day27_Practice_Solution.xlsx) in that folder.
 
 ---
 
