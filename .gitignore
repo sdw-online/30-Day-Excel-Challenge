@@ -2,3 +2,4 @@
 create_folders.py
 create_exercise_datasets.py
 podcast/episodes/
+__pycache__/
