@@ -18,9 +18,10 @@ Script format (Markdown or plain text), one turn per line:
 - Bracketed stage directions like [laughs] or (pause) are stripped.
 
 Usage:
-    python podcast/make_podcast.py podcast/scripts/day_18_xlookup.md
-    python podcast/make_podcast.py script.md --voices "ALEX=am_michael,SAM=af_heart" --speed 1.05
-    python podcast/make_podcast.py --list-voices
+    python make_podcast.py script.md --check     # balance report only, no audio
+    python make_podcast.py script.md             # writes script.mp3 next to it
+    python make_podcast.py script.md --voices "ALEX=bm_george,SAM=bf_emma" --lang en-gb
+    python make_podcast.py --list-voices
 """
 
 import argparse
@@ -42,6 +43,8 @@ DEFAULT_VOICE_ROTATION = ["am_michael", "af_heart", "bm_george", "bf_emma"]
 SAMPLE_RATE = 24000
 PAUSE_SAME_SPEAKER = 0.25  # seconds between chunks of one speaker's turn
 PAUSE_SPEAKER_CHANGE = 0.45  # seconds when the other host picks up
+PAUSE_QUICK_REACTION = 0.15  # seconds around a short "Right." or "Wait, what?"
+QUICK_REACTION_WORDS = 4
 
 TURN_RE = re.compile(r"^\s*\**([A-Za-z][\w .'-]{0,30}?)\**\s*:\s*(.+)$")
 STAGE_DIRECTION_RE = re.compile(r"\[[^\]]*\]|\((?:laughs?|pause|beat|chuckles?|sighs?)[^)]*\)", re.I)
@@ -72,6 +75,33 @@ def parse_script(text):
         else:
             turns.append((speaker, spoken))
     return turns
+
+
+def balance_report(turns):
+    """Print per-host stats and return warnings if one host dominates."""
+    stats = {}
+    for speaker, line in turns:
+        s = stats.setdefault(speaker, {"turns": 0, "words": 0, "questions": 0})
+        s["turns"] += 1
+        s["words"] += len(line.split())
+        s["questions"] += line.count("?")
+    total_words = sum(s["words"] for s in stats.values())
+    total_questions = sum(s["questions"] for s in stats.values())
+    for speaker, s in stats.items():
+        print(f"  {speaker:<10} {s['turns']:>3} turns  {s['words']:>5} words  {s['questions']:>3} questions")
+    print(f"  ~{total_words / 150:.1f} min of speech")
+
+    warnings = []
+    if len(stats) < 2:
+        warnings.append("Only one speaker found. Is the NAME: format right?")
+    for speaker, s in stats.items():
+        if len(stats) == 2 and total_questions >= 4 and s["questions"] / total_questions < 0.3:
+            warnings.append(f"{speaker} asks only {s['questions']} of {total_questions} questions. Let both hosts ask.")
+        if len(stats) == 2 and s["words"] / total_words > 0.65:
+            warnings.append(f"{speaker} speaks {s['words'] * 100 // total_words}% of the words. Share the explaining.")
+    for w in warnings:
+        print(f"  WARNING: {w}")
+    return warnings
 
 
 def ensure_models(model_dir):
@@ -132,14 +162,22 @@ def main():
     parser.add_argument("--speed", type=float, default=1.0, help="speaking rate, 0.5-2.0 (default 1.0)")
     parser.add_argument("--lang", default="en-us", help="en-us or en-gb (default en-us)")
     parser.add_argument("--model-dir", type=Path, default=DEFAULT_MODEL_DIR, help=f"where model files live (default {DEFAULT_MODEL_DIR})")
+    parser.add_argument("--check", action="store_true", help="only print the conversation balance report")
     parser.add_argument("--list-voices", action="store_true", help="print available voice ids and exit")
     args = parser.parse_args()
+
+    if args.check:
+        if not args.script:
+            parser.error("--check needs a script file")
+        turns = parse_script(args.script.read_text(encoding="utf-8"))
+        print(f"Balance check: {args.script}")
+        sys.exit(1 if balance_report(turns) else 0)
 
     try:
         import numpy as np
         from kokoro_onnx import Kokoro
     except ImportError:
-        sys.exit("Missing dependencies. Run: pip install -r podcast/requirements.txt")
+        sys.exit(f"Missing dependencies. Run: pip install -r {Path(__file__).parent / 'requirements.txt'}")
 
     kokoro = Kokoro(*map(str, ensure_models(args.model_dir)))
 
@@ -168,12 +206,17 @@ def main():
         print(f"[{i}/{len(turns)}] {speaker}: {line[:70]}{'...' if len(line) > 70 else ''}")
         samples, _ = kokoro.create(line, voice=voices[speaker], speed=args.speed, lang=args.lang)
         if previous is not None:
-            gap = PAUSE_SPEAKER_CHANGE if speaker != previous else PAUSE_SAME_SPEAKER
+            if speaker == previous:
+                gap = PAUSE_SAME_SPEAKER
+            elif min(len(line.split()), len(turns[i - 2][1].split())) <= QUICK_REACTION_WORDS:
+                gap = PAUSE_QUICK_REACTION
+            else:
+                gap = PAUSE_SPEAKER_CHANGE
             pieces.append(np.zeros(int(gap * SAMPLE_RATE), dtype=np.float32))
         pieces.append(samples.astype(np.float32))
         previous = speaker
 
-    out = args.out or Path(__file__).parent / "episodes" / f"{args.script.stem}.mp3"
+    out = args.out or args.script.with_suffix(".mp3")
     written = export(np.concatenate(pieces), out)
     minutes, seconds = divmod(int(sum(len(p) for p in pieces) / SAMPLE_RATE), 60)
     print(f"\nDone: {written} ({minutes}m {seconds:02d}s)")
